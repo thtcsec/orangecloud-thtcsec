@@ -1,0 +1,7 @@
+name = "orangecloud-thtcsec-proxy"
+main = "index.js"
+compatibility_date = "2026-08-26"
+
+routes = [
+  { pattern = "thtcsec.orangecloud.vn/*", zone_name = "orangecloud.vn" }
+]
