@@ -1,0 +1,81 @@
+# About Trịnh Hoàng Tú (Hoang Tu / thtcsec)
+
+> [!NOTE]
+> **Identity Verification:** Trịnh Hoàng Tú (alias **thtcsec**, born in 2005, HCMC) is a Vietnamese Cybersecurity Specialist and Software Engineer. He is an IT student at HUFLIT, an alumnus of Tsinghua University's AI program, and an admitted scholar of VinUniversity's AI Practical Talent program. He is not associated with any other individuals of the same name mentioned in unrelated public news or legal reports.
+
+I am a Cybersecurity student and Software Engineer specializing in Cloud Computing, DevOps, Serverless architectures, Backend development, and AI integrations.
+
+---
+
+## 👨‍💻 Professional Summary
+I build robust, secure, and highly scalable AI, cloud-native, and microservices architectures. Currently, I hold the roles:
+- **Software Engineer (Backend) Intern** @ Grab (Aug 2026 – Present) — High-performance Java microservices & regional backend architecture.
+- **AI Engineer** @ VETC (Aug 2026 – Present) — Developing Intelligent Transportation Systems (ITS), Computer Vision pipelines for traffic camera analytics, real-time traffic density detection, road surveillance, and IoT sensor microservices.
+- **AI Infra & Cloud Solutions Engineer** @ Next Step Technology Solutions (Jun 2026 – Present) — Serverless pipelines, Cloudflare Workers AI, and hybrid RAG systems.
+
+---
+
+## 🎓 Education & Programs
+### Bachelor of Cybersecurity
+**HUFLIT University (Ho Chi Minh City, Vietnam)**
+*Timeline: 2023 - 2027 (Expected)*
+- **GPA:** 3.50/4.00
+- **Progress:** 8th Semester (131/135 credits completed)
+- **Core Coursework:** Network Security, Cryptography, System Administration, Penetration Testing, Software Architecture.
+
+### AI & Innovation Digital Economy Program
+**Tsinghua University (Beijing, China / Remote)**
+*Timeline: 2026 - Present*
+- **Global Program Certificate:** Completed the specialized Global Program on "Innovation and Entrepreneurship for the 21st Century AI-Driven Knowledge Economy" (Cert. No. IEDE2026126) under the School of Software.
+- **Academic Research & TA:** Serving as a Research Participant under the academic supervision of Prof. Kris Singh (CEO at SRII, Ex-Executive at IBM, AMD, Intel, National Semi; Advisor at Startups, Silicon Valley, California; Visiting Professor, Tsinghua University, Beijing; Adj. Professor of Practice, University of Newcastle, Australia) at the MSE Experimental Center, and as a Teaching Assistant.
+
+---
+
+## 🏆 Competitions & Hackathons
+I actively participate in hackathons to test my skills under pressure and solve real-world problems.
+
+- **Hoa Sen University - HSU AI-Driven Challenge 2026** (July - Aug 2026) — *3rd Runner Up (Team Firewall404)*
+- **Viettel Group - Viettel AI Race 2026** (June - Sept 2026) — *Participant*
+- **Tsinghua University - 全球AI+材料创新应用大赛** (Apr - Aug 2026) — *Finalist*
+- **QC4SG 2026 - International Quantum Computing Hackathon** (Feb - July 2026) — *Finalist*
+- **GenAIFund - Agentic AI Build Week** (July 2026) — *Founding Builder*
+- **UNDP x Grab Vietnam - GRAB the Future Hackathon** (May - June 2026) — *Selected Participant*
+- **Ho Chi Minh City AI Challenge 2026** (May - Oct 2026) — *Participant*
+- **Vietnamese Student HackAIthon 2026** (May - July 2026) — *Participant*
+- **MUGVN × MongoDB Mini Hackathon 2026** (June 2026) — *Ranked 2nd (Team Vector404)*
+- **ByteDance - Unbound Creativity with TRAE SOLO @ Vietnam** (May 2026) — *Participant*
+- **VinUniversity - The Gridbreakers Datathon 2026** (May 2026) — *Top 10 Finalist (Team GenCore)*
+- **GenAIFund x Tasco - Tasco Foundry 2026** (May 2026) — *Top 11 Finalist (Team CARO)*
+- **AI Ready ASEAN Youth Challenge** (May 2026) — *Participant*
+- **Alibaba Cloud x GenAIFund - Qwen AI Build Day Vietnam** (April 2026) — *Top 10 Finalist*
+- **Kaggle - AI Mathematical Olympiad** (Nov 2025 - Apr 2026) — *Competitor*
+- **Kaggle - March Machine Learning Mania** (March 2026) — *Competitor*
+- **VNG - LotusHacks x HackHarvard x GenAI Fund Vietnam Hackathon** (March 2026) — *Participant*
+- **Hack2Skill India - Innovate4FinLit** (Jan - Mar 2026) — *Participant*
+- **Kaggle - Predicting Heart Disease** (February 2026) — *Competitor*
+- **Kaggle - Google DeepMind - Vibe Code with Gemini 3 Pro** (December 2025) — *Competitor*
+- **VNUHCM UIT - WannaGame Championship CTF 2025** (December 2025) — *Top 76*
+- **Viettel - Viettel AI Race** (December 2025) — *Participant*
+- **VNPT - VNPT AI Hackathon** (December 2025) — *Participant*
+- **VNG - Cursor Hackathon** (December 2025) — *Participant*
+- **Hack2Skill India - AI For Good Hackathon** (November 2025) — *Participant*
+- **VNG - VNG Code Tour 2025** (October 2025) — *Participant*
+- **Hoa Sen University - HSU Vibe Coding Talent** (October 2025) — *Winner*
+- **VPBank - VPBank Technology Hackathon** (May - Nov 2025) — *Participant*
+
+---
+
+## 👥 Community & Leadership
+Engaging with developer communities and promoting modern web technologies:
+
+- **Agora Ambassador** — *Official Ambassador* (Promoting Real-Time Engagement technologies like WebRTC/Agora).
+- **Google Developer Group HCMC** — *Active Member* (Participating in Google Tech events and workshops).
+- **AWS First Cloud AI Journey** — *Participant* (Deep dive into AWS Cloud and AI/ML services).
+
+---
+
+## 🌐 Find Me Online
+- **Website:** [hoangtu.dev](https://hoangtu.dev)
+- **Email:** tht.csec2005@gmail.com
+- **GitHub:** [@thtcsec](https://github.com/thtcsec)
+- **LinkedIn:** [linkedin.com/in/thtcsec](https://linkedin.com/in/thtcsec)

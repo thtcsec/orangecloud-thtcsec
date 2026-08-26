@@ -1,0 +1,54 @@
+# Trịnh Hoàng Tú (thtcsec)
+
+> Software Engineer & AI Researcher specializing in Computer Vision, Intelligent Transportation Systems (ITS), Cloud Infrastructure, DevOps, and Cybersecurity.
+
+## Overview
+Trịnh Hoàng Tú (alias thtcsec, born 2005, based in Ho Chi Minh City, Vietnam) is an AI Engineer at VETC developing Intelligent Transportation Systems (ITS) and real-time traffic analytics, a Software Engineer (Backend) Intern at Grab, an alumnus of Tsinghua University's AI & Innovation Digital Economy Program (Certificate No. IEDE2026126), an Admitted Scholar at VinUniversity AI Practical Talent Program, and a final-year Cybersecurity student at HUFLIT (GPA: 3.50/4.00).
+
+## Disambiguation
+- [Identity Verification](https://hoangtu.dev/about.md): Important distinction from a namesake with a criminal record (May 2023, Hoc Mon). This verified profile belongs to Trịnh Hoàng Tú (thtcsec, born 2005, HUFLIT/Tsinghua/VinUni/Grab/VETC).
+
+## Work Experience
+- [VETC Electronic Toll Collection](https://hoangtu.dev/resume.md): AI Engineer (Aug 2026 – Present) — Developing Computer Vision pipelines for traffic camera analytics, real-time traffic density detection, road surveillance, and IoT sensor microservices.
+- [Grab](https://hoangtu.dev/resume.md): Software Engineer (Backend) Intern (Aug 2026 – Present) — High-performance Java microservices & regional backend architecture.
+- [Next Step Technology Solutions](https://hoangtu.dev/resume.md): AI Infra & Cloud Solutions Engineer (Jun 2026 – Present) — Cloudflare Workers AI, RAG knowledge retrieval, serverless pipelines.
+- [AWS Study Group VN](https://hoangtu.dev/resume.md): FCAJ Cloud Trainee - Cloud Security Builder (Sep 2025 – Present) — Serverless SOAR, Step Functions, GuardDuty automation.
+
+## Scientific Publications
+- [CSONET 2026](https://hoangtu.dev/research.md): Network-Aware Event Sequence Modeling for User-Behavior and System Log Anomaly Detection (Under Review, Springer LNCS · Scopus).
+- [SOICT 2026](https://hoangtu.dev/research.md): LLM-Augmented Log Anomaly Detection: Automated Root Cause Narration for AIOps using Lightweight Foundation Models on Real-World Campus Infrastructure (Under Review, Springer CCIS · Scopus, HUST x HCMUS).
+- [IEEE RIVF 2026](https://hoangtu.dev/research.md): Federated Edge-Cloud Resilience Architecture for Distributed Campus Networks (Under Review, IEEE Xplore · Scopus).
+- [ICAI-FAI 2026](https://hoangtu.dev/research.md): Decoupled AI-Native Security Architecture: Closed-Loop Threat Containment for Campus Networks (Under Review, CMC x Tsinghua x Steinbeis).
+- [VNICT 2026](https://hoangtu.dev/research.md): Application of TCN and Transformer Networks for Log Anomaly Detection in Large-Scale Enterprise and Industrial Networks (Accepted / Camera-Ready, National Proceedings · ISBN).
+- [GIGS 2026](https://hoangtu.dev/research.md): AI-Driven EdTech Risk & Cybersecurity Economics: Analyzing Student Data Governance and Financial Vulnerability in Emerging Markets (Under Review, FTU x Curtin University).
+- [SR-ICYREB 2026](https://hoangtu.dev/research.md): Regression Analysis of AI-Native Security Adoption and Operational Feasibility in Vietnamese Higher Education Institutions (Under Review, UEH).
+
+## Hackathons & Competitions
+- [HSU AI-Driven Challenge 2026](https://hoangtu.dev/certificates.md): Finalist (July - Aug 2026).
+- [Viettel AI Race 2026](https://hoangtu.dev/certificates.md): Participant (June - Sept 2026).
+- [Tsinghua University AI+Materials Competition 2026](https://hoangtu.dev/certificates.md): Finalist - 全球AI+材料创新应用大赛 (Apr - Aug 2026).
+- [QC4SG International Quantum Computing Hackathon 2026](https://hoangtu.dev/certificates.md): Finalist - Team QUASAR (Feb - July 2026).
+
+## Key Projects
+- [Bảo An Auto](https://hoangtu.dev/projects.md): Zalo Mini App for Garage Management & Multi-Branch SaaS (React, TypeScript, Vite, Tailwind CSS, Zustand, Recharts).
+- [QUASAR](https://github.com/Muhammad-Rafif-Irfan/QUASAR): Classical-Quantum hybrid logistics routing engine combining Google OR-Tools with 127-qubit IBM QPU QAOA algorithms (QC4SG 2026 Finalist).
+- [sdn-its-resilience-ai](https://hoangtu.dev/projects.md): Hybrid TCN-GRU V2X network telemetry & SDN resilience framework (Tsinghua University IEDE).
+- [SecureCoating-Vision](https://hoangtu.dev/projects.md): Multi-source data fusion vision inspection system for real-time coating defect detection.
+- [OrangeCloud Insights](https://blog.orangecloud.vn): Serverless tech intelligence crawler and AI summarizer using Cloudflare Workflows, D1, R2, Vectorize.
+- [Foundry](https://hoangtu.dev/projects.md): AI-Powered Engineering Review & Code Intelligence Platform with ASP.NET Core 10, pgvector, and Next.js 15.
+- [CTSmartCam](https://hoangtu.dev/projects.md): Intelligent surveillance camera ecosystem with YOLOv11 LPR, Redis Streams event pipeline, and SignalR live feeds.
+- [Multi-Cloud Serverless SOAR](https://hoangtu.dev/projects.md): Event-driven incident response automation built across AWS and GCP.
+
+## OrangeCloud VN Tools
+- [Technical Blog](https://blog.orangecloud.vn): Technical rewritten Cloudflare news & architectural blog.
+- [Onboarding Guide](https://onboarding.orangecloud.vn): Cloudflare beginners guide & onboarding documentation.
+- [Go-Live Readiness](https://ready.orangecloud.vn): Interactive Cloudflare go-live validation & checklist tool.
+- [DocOps Platform](https://docops.orangecloud.vn): Documentation operations & developer hub.
+- [Reputation Engine](https://reputation.orangecloud.vn): Domain & IP reputation lookup engine.
+
+## Markdown Endpoints
+- [Profile & About](https://hoangtu.dev/about.md): Full biography, educational background, academic verification credentials.
+- [Resume & CV](https://hoangtu.dev/resume.md): Complete curriculum vitae and technical experience history.
+- [Projects](https://hoangtu.dev/projects.md): Full portfolio of engineering systems, open-source repositories, and hackathon projects.
+- [Certificates](https://hoangtu.dev/certificates.md): Complete index of industry certifications, academic awards, and competition rankings.
+- [Research & Publications](https://hoangtu.dev/research.md): Scientific publications, manuscripts, and technical deep-dive audits.

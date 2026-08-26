@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
+    color-scheme: dark;
+    background-color: #0B0F19;
+    color: #e2e8f0;
+  }
+}
+
+.gradient-mesh {
+  background: radial-gradient(circle at 50% 0%, rgba(243, 128, 32, 0.06) 0%, transparent 60%);
+}
+
+.timeline-dot::before {
+  content: '';
+  position: absolute;
+  left: -37px;
+  top: 6px;
+  width: 10px;
+  height: 10px;
+  border-radius: 9999px;
+  background-color: #F38020;
+  border: 2px solid #0B0F19;
+}
+
+/* Custom Cloudflare Theme Utilities */
+.text-cf-orange {
+  color: #F38020;
+}
+
+.bg-cf-orange {
+  background-color: #F38020;
+}
+
+.border-cf-orange {
+  border-color: #F38020;
+}
+
+.bg-cf-dark {
+  background-color: #0B0F19;
+}
+
+.bg-cf-surface {
+  background-color: #111622;
+}
+
+.border-cf-border {
+  border-color: rgba(255, 255, 255, 0.08);
+}
