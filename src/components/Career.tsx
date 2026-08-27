@@ -11,12 +11,12 @@ export const Career: React.FC<CareerProps> = ({ lang }) => {
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         <div className="mb-10">
           <h2 className="text-2xl font-bold text-white sm:text-3xl">
-            {lang === 'vi' ? 'Sự nghiệp' : 'Career'}
+            {lang === 'vi' ? 'Hành trình & Kinh nghiệm' : 'Experience & Education'}
           </h2>
           <p className="mt-2 text-gray-400">
             {lang === 'vi'
-              ? 'Hành trình trong an toàn thông tin & công nghệ đám mây'
-              : 'Track record in cybersecurity & cloud systems'}
+              ? 'Quá trình thực tập, nghiên cứu và học vấn'
+              : 'Internships, research, and education'}
           </p>
         </div>
 
@@ -43,20 +43,6 @@ export const Career: React.FC<CareerProps> = ({ lang }) => {
               <p className="mt-2 text-sm leading-relaxed text-gray-400">
                 {lang === 'vi' ? item.descVi : item.descEn}
               </p>
-
-              {/* Awards / Highlights */}
-              {((lang === 'vi' ? item.awardsVi : item.awardsEn) || []).length > 0 && (
-                <div className="mt-3 flex flex-wrap gap-2">
-                  {((lang === 'vi' ? item.awardsVi : item.awardsEn) || []).map((aw, aIdx) => (
-                    <span
-                      key={aIdx}
-                      className="inline-flex items-center rounded-md border border-cf-orange/30 bg-cf-orange/10 px-2.5 py-1 text-xs font-medium text-cf-orange"
-                    >
-                      {aw}
-                    </span>
-                  ))}
-                </div>
-              )}
             </div>
           ))}
         </div>

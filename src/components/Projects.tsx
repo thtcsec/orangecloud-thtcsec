@@ -11,12 +11,12 @@ export const Projects: React.FC<ProjectsProps> = ({ lang }) => {
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         <div className="mb-10">
           <h2 className="text-2xl font-bold text-white sm:text-3xl">
-            {lang === 'vi' ? 'Dự án nổi bật' : 'Featured Projects'}
+            {lang === 'vi' ? 'Dự án' : 'Projects'}
           </h2>
           <p className="mt-2 text-gray-400">
             {lang === 'vi'
-              ? 'Side projects & production apps trên Cloudflare & Cloud'
-              : 'Side projects & production apps on Cloudflare & Multi-Cloud'}
+              ? 'Một số dự án cá nhân & thực tế đã xây dựng'
+              : 'Selected personal & practical projects built'}
           </p>
         </div>
 
@@ -30,9 +30,9 @@ export const Projects: React.FC<ProjectsProps> = ({ lang }) => {
                 <h3 className="text-lg font-semibold text-white">
                   {project.title}
                 </h3>
-                {project.star && (
-                  <span className="shrink-0 rounded-full bg-cf-orange/15 px-2 py-0.5 text-xs font-medium text-cf-orange">
-                    {project.star}
+                {project.tag && (
+                  <span className="shrink-0 rounded-md bg-cf-dark px-2 py-0.5 text-xs text-gray-400 border border-white/10">
+                    {project.tag}
                   </span>
                 )}
               </div>
