@@ -14,8 +14,8 @@ export const Mentor: React.FC<MentorProps> = ({ lang }) => {
           </h2>
           <p className="mt-2 text-gray-400">
             {lang === 'vi'
-              ? 'Cố vấn & người đồng hành tại OrangeCloud'
-              : 'Advisor & mentor at OrangeCloud'}
+              ? 'Mentor cộng đồng OrangeCloud'
+              : 'OrangeCloud community mentor'}
           </p>
         </div>
 

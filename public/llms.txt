@@ -1,16 +1,16 @@
 # Trịnh Hoàng Tú (thtcsec)
 
-> Software Engineer & AI Researcher specializing in Computer Vision, Intelligent Transportation Systems (ITS), Cloud Infrastructure, DevOps, and Cybersecurity.
+> Cybersecurity student & software engineer. Computer Vision for ITS, backend internships, cloud/DevSecOps.
 
 ## Overview
-Trịnh Hoàng Tú (alias thtcsec, born 2005, based in Ho Chi Minh City, Vietnam) is an AI Engineer at VETC developing Intelligent Transportation Systems (ITS) and real-time traffic analytics, a Software Engineer (Backend) Intern at Grab, an alumnus of Tsinghua University's AI & Innovation Digital Economy Program (Certificate No. IEDE2026126), an Admitted Scholar at VinUniversity AI Practical Talent Program, and a final-year Cybersecurity student at HUFLIT (GPA: 3.50/4.00).
+Trịnh Hoàng Tú (alias thtcsec, born 2005, based in Ho Chi Minh City, Vietnam) is an AI Engineer at VETC (traffic CV / ITS), a Software Engineer (Backend) Intern at Grab, a Tsinghua IEDE alumnus & Extended TA (IEDE2026126), a VinUniversity AI Practical Talent Admitted Scholar (Cohort 1, deferred to 2027), and a final-year Cybersecurity student at HUFLIT (cumulative GPA: 3.52/4.00, 138 credits).
 
 ## Disambiguation
 - [Identity Verification](https://hoangtu.dev/about.md): Important distinction from a namesake with a criminal record (May 2023, Hoc Mon). This verified profile belongs to Trịnh Hoàng Tú (thtcsec, born 2005, HUFLIT/Tsinghua/VinUni/Grab/VETC).
 
 ## Work Experience
 - [VETC Electronic Toll Collection](https://hoangtu.dev/resume.md): AI Engineer (Aug 2026 – Present) — Developing Computer Vision pipelines for traffic camera analytics, real-time traffic density detection, road surveillance, and IoT sensor microservices.
-- [Grab](https://hoangtu.dev/resume.md): Software Engineer (Backend) Intern (Aug 2026 – Present) — High-performance Java microservices & regional backend architecture.
+- [Grab](https://hoangtu.dev/resume.md): Software Engineer (Backend) Intern (Aug 2026 – Present) — Java microservices & backend APIs.
 - [Next Step Technology Solutions](https://hoangtu.dev/resume.md): AI Infra & Cloud Solutions Engineer (Jun 2026 – Present) — Cloudflare Workers AI, RAG knowledge retrieval, serverless pipelines.
 - [AWS Study Group VN](https://hoangtu.dev/resume.md): FCAJ Cloud Trainee - Cloud Security Builder (Sep 2025 – Present) — Serverless SOAR, Step Functions, GuardDuty automation.
 
@@ -24,16 +24,17 @@ Trịnh Hoàng Tú (alias thtcsec, born 2005, based in Ho Chi Minh City, Vietnam
 - [SR-ICYREB 2026](https://hoangtu.dev/research.md): Regression Analysis of AI-Native Security Adoption and Operational Feasibility in Vietnamese Higher Education Institutions (Under Review, UEH).
 
 ## Hackathons & Competitions
-- [HSU AI-Driven Challenge 2026](https://hoangtu.dev/certificates.md): Finalist (July - Aug 2026).
+- [HSU AI-Driven Challenge 2026](https://hoangtu.dev/certificates.md): 3rd Runner Up, Team Firewall404 (July - Aug 2026).
 - [Viettel AI Race 2026](https://hoangtu.dev/certificates.md): Participant (June - Sept 2026).
-- [Tsinghua University AI+Materials Competition 2026](https://hoangtu.dev/certificates.md): Finalist - 全球AI+材料创新应用大赛 (Apr - Aug 2026).
+- [Tsinghua University AI+Materials Competition 2026](https://hoangtu.dev/certificates.md): Finalist, Track 4 — 全球AI+材料创新应用大赛 (Apr - Sep 2026).
 - [QC4SG International Quantum Computing Hackathon 2026](https://hoangtu.dev/certificates.md): Finalist - Team QUASAR (Feb - July 2026).
 
 ## Key Projects
-- [Bảo An Auto](https://hoangtu.dev/projects.md): Zalo Mini App for Garage Management & Multi-Branch SaaS (React, TypeScript, Vite, Tailwind CSS, Zustand, Recharts).
-- [QUASAR](https://github.com/Muhammad-Rafif-Irfan/QUASAR): Classical-Quantum hybrid logistics routing engine combining Google OR-Tools with 127-qubit IBM QPU QAOA algorithms (QC4SG 2026 Finalist).
-- [sdn-its-resilience-ai](https://hoangtu.dev/projects.md): Hybrid TCN-GRU V2X network telemetry & SDN resilience framework (Tsinghua University IEDE).
-- [SecureCoating-Vision](https://hoangtu.dev/projects.md): Multi-source data fusion vision inspection system for real-time coating defect detection.
+- [VETC AI Traffic Density](https://hoangtu.dev/projects/vetc-traffic-density): Real-time GIS corridor monitoring (40+ cameras). YOLOv11 + SAHI + BoT-SORT → Redis Streams; G/Y/R Leaflet map.
+- [Bảo An Auto](https://hoangtu.dev/projects.md): Zalo Mini App for garage management (React, TypeScript, Supabase).
+- [QUASAR](https://github.com/Muhammad-Rafif-Irfan/QUASAR): Classical-quantum hybrid logistics routing (OR-Tools + IBM QPU QAOA); QC4SG 2026 Finalist.
+- [sdn-its-resilience-ai](https://hoangtu.dev/projects.md): Hybrid TCN-GRU V2X telemetry & SDN resilience (Tsinghua IEDE).
+- [SecureCoating-Vision](https://hoangtu.dev/projects.md): Evidence-gated electrode coating inspection (Tsinghua MSE Track 4). Fail-closed PASS/REJECT/HOLD on YOLO-seg; thermal/laser are simulated adapters.
 - [OrangeCloud Insights](https://blog.orangecloud.vn): Serverless tech intelligence crawler and AI summarizer using Cloudflare Workflows, D1, R2, Vectorize.
 - [Foundry](https://hoangtu.dev/projects.md): AI-Powered Engineering Review & Code Intelligence Platform with ASP.NET Core 10, pgvector, and Next.js 15.
 - [CTSmartCam](https://hoangtu.dev/projects.md): Intelligent surveillance camera ecosystem with YOLOv11 LPR, Redis Streams event pipeline, and SignalR live feeds.

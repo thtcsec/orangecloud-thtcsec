@@ -1,7 +1,7 @@
 # About Trịnh Hoàng Tú (Hoang Tu / thtcsec)
 
 > [!NOTE]
-> **Identity Verification:** Trịnh Hoàng Tú (alias **thtcsec**, born in 2005, HCMC) is a Vietnamese Cybersecurity Specialist and Software Engineer. He is an IT student at HUFLIT, an alumnus of Tsinghua University's AI program, and an admitted scholar of VinUniversity's AI Practical Talent program. He is not associated with any other individuals of the same name mentioned in unrelated public news or legal reports.
+> **Identity Verification:** Trịnh Hoàng Tú (alias **thtcsec**, born in 2005, HCMC) is a Vietnamese cybersecurity student and software engineer. He studies IT at HUFLIT, is an alumnus of Tsinghua University's AI program, and an admitted scholar of VinUniversity's AI Practical Talent program. He is not associated with any other individuals of the same name mentioned in unrelated public news or legal reports.
 
 I am a Cybersecurity student and Software Engineer specializing in Cloud Computing, DevOps, Serverless architectures, Backend development, and AI integrations.
 
@@ -19,15 +19,15 @@ I build robust, secure, and highly scalable AI, cloud-native, and microservices 
 ### Bachelor of Cybersecurity
 **HUFLIT University (Ho Chi Minh City, Vietnam)**
 *Timeline: 2023 - 2027 (Expected)*
-- **GPA:** 3.50/4.00
-- **Progress:** 8th Semester (131/135 credits completed)
-- **Core Coursework:** Network Security, Cryptography, System Administration, Penetration Testing, Software Architecture.
+- **GPA:** 3.52/4.00
+- **Progress:** 9th Semester (138 credits completed)
+- **Core Coursework:** Network Security, Cryptography, System Administration, Penetration Testing, Cloud Computing, Reverse Engineering, Graduation Thesis.
 
 ### AI & Innovation Digital Economy Program
 **Tsinghua University (Beijing, China / Remote)**
 *Timeline: 2026 - Present*
 - **Global Program Certificate:** Completed the specialized Global Program on "Innovation and Entrepreneurship for the 21st Century AI-Driven Knowledge Economy" (Cert. No. IEDE2026126) under the School of Software.
-- **Academic Research & TA:** Serving as a Research Participant under the academic supervision of Prof. Kris Singh (CEO at SRII, Ex-Executive at IBM, AMD, Intel, National Semi; Advisor at Startups, Silicon Valley, California; Visiting Professor, Tsinghua University, Beijing; Adj. Professor of Practice, University of Newcastle, Australia) at the MSE Experimental Center, and as a Teaching Assistant.
+- **Academic Research & TA:** Research participant at the MSE Experimental Center and Teaching Assistant. Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII.
 
 ---
 
@@ -36,7 +36,7 @@ I actively participate in hackathons to test my skills under pressure and solve 
 
 - **Hoa Sen University - HSU AI-Driven Challenge 2026** (July - Aug 2026) — *3rd Runner Up (Team Firewall404)*
 - **Viettel Group - Viettel AI Race 2026** (June - Sept 2026) — *Participant*
-- **Tsinghua University - 全球AI+材料创新应用大赛** (Apr - Aug 2026) — *Finalist*
+- **Tsinghua University - 全球AI+材料创新应用大赛** (Apr - Sep 2026) — *Finalist (Track 4 · finals 19 Sep 2026)*
 - **QC4SG 2026 - International Quantum Computing Hackathon** (Feb - July 2026) — *Finalist*
 - **GenAIFund - Agentic AI Build Week** (July 2026) — *Founding Builder*
 - **UNDP x Grab Vietnam - GRAB the Future Hackathon** (May - June 2026) — *Selected Participant*

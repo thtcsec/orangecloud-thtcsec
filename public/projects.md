@@ -6,12 +6,21 @@ A collection of featured engineering projects in web architectures, serverless s
 
 ## 🚀 Featured Projects
 
-### 1. AI-Assisted Resilience for SDN-Enabled ITS (`sdn-its-resilience-ai`)
+### 1. VETC AI Traffic Density
+*   **Domain:** Computer Vision & Intelligent Transportation Systems
+*   **Technologies:** Python, FastAPI, YOLOv11, SAHI, BoT-SORT, Redis Streams, OSRM, Leaflet, Docker
+*   **Access:** Internal / case study on [hoangtu.dev](https://hoangtu.dev/projects/vetc-traffic-density)
+*   **Highlights:**
+    *   Real-time GIS corridor monitoring for VETC (40+ HCMC cameras).
+    *   YOLOv11 + SAHI + BoT-SORT → Redis Streams → density G/Y/R on Leaflet; OSRM road snapping.
+    *   Uses existing cameras instead of inductive-loop sensors.
+
+### 2. AI-Assisted Resilience for SDN-Enabled ITS (`sdn-its-resilience-ai`)
 *   **Domain:** Artificial Intelligence & Software-Defined Networking (SDN)
 *   **Technologies:** PyTorch, Python, Ryu, ONOS, Mininet-WiFi, SUMO, Scapy, Flask, Docker
 *   **Access:** Private Research Repository
 *   **Highlights:**
-    *   *Academic Context:* Research Proposal Project at Tsinghua University IEDE under academic supervision of Prof. Kris Singh.
+    *   *Academic Context:* Research proposal at Tsinghua University IEDE.
     *   Flow-level telemetry paired with Hybrid TCN-GRU anomaly detection achieving 97.33% accuracy.
     *   Model INT8 quantization reducing model size by 82% (0.174 MB) with 9.9ms response time.
     *   Automated Detect → Contain → Rollback safety-aware mitigation pipeline with cooldown policy.
@@ -70,15 +79,15 @@ A collection of featured engineering projects in web architectures, serverless s
     *   Dynamic geospatial routing engine using OSMnx to snap coordinate JSON inputs to real road networks with Haversine fallback.
     *   Deterministic tour validation layer verifying depot start/end constraints and node uniqueness.
 
-### 6. SecureCoating-Vision — Multi-Source Fusion Vision System
+### 6. SecureCoating-Vision — Evidence-Gated Electrode Inspection
 *   **Domain:** Computer Vision & AI for Materials Science
-*   **Technologies:** Python, FastAPI, PyTorch, ONNX Runtime, TensorRT, Streamlit, OpenCV, Docker
-*   **Access:** Private Competition Repository
+*   **Technologies:** Python, FastAPI, PyTorch, ONNX Runtime, Streamlit, OpenCV, Docker
+*   **Access:** Private competition repository
 *   **Highlights:**
-    *   *Competition:* 2026 Global AI + Materials Competition (Tsinghua University School of Materials Science & Engineering), supervised by Prof. Kris Singh (SRII / Tsinghua).
-    *   Multi-modal sensor fusion combining 2D High-Res Optical RGB, LWIR Thermal, and 3D Laser Profilometer data.
-    *   Dual-stage inference pipeline accelerated via TensorRT FP16/INT8 for $\le 35\text{ms}$ inspection zone latency.
-    *   Fail-safe sensor degradation logic, digital homography correction, and OPC UA / Modbus TCP industrial PLC signaling.
+    *   *Competition:* 2026 Global AI + Materials (Tsinghua MSE), Track 4 — AI + Materials Testing and Characterization.
+    *   Fail-closed inspection: RGB YOLO-seg localization, then an evidence gate that may only PASS/REJECT when sensors, calibration, traceability, and PLC ACK agree; otherwise HOLD.
+    *   Thermal and laser channels are simulated adapters in this prototype — not a claim of deployed multi-sensor fusion.
+    *   Held-out CoatingVision optical test-split: mAP50 0.63; live mean pipeline latency ~312 ms on CPU.
 
 ### 7. Foundry — AI Engineering Intelligence Platform
 *   **Domain:** System Engineering & AI Code Intelligence

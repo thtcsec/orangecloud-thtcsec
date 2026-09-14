@@ -18,8 +18,8 @@ Cybersecurity Student & Software Engineer specializing in Backend (ASP.NET Core,
 ### 1. Software Engineer (Backend) Intern
 **Grab**
 *Timeline: August 2026 – Present | On-site*
-- Designing and developing high-performance, scalable backend services and microservice architectures within Grab's regional engineering teams.
-- Collaborating with cross-functional teams to build robust APIs, microservices, and optimize cloud-native deployments.
+- Designing and developing backend services and microservice architectures within Grab's regional engineering teams.
+- Collaborating with cross-functional teams on APIs, microservices, and cloud-native deployments.
 - **Skills:** Java, Docker, Kubernetes, Microservices, REST APIs, SQL.
 
 ### 2. AI Engineer
@@ -60,8 +60,8 @@ Cybersecurity Student & Software Engineer specializing in Backend (ASP.NET Core,
 ---
 
 ## 🎓 Education & Programs
-- **HUFLIT University:** Bachelor of Cybersecurity (2023 – 2027 Expected) | GPA: 3.50/4.00
-- **Tsinghua University:** AI & Innovation Digital Economy (2026 – Present). Completed the specialized Global Program on "Innovation and Entrepreneurship for the 21st Century AI-Driven Knowledge Economy" (Cert. No. IEDE2026126). Serving as a Research Participant under the academic supervision of Prof. Kris Singh (CEO at SRII, Ex-Executive at IBM, AMD, Intel, National Semi; Advisor at Startups, Silicon Valley, California; Visiting Professor, Tsinghua University, Beijing; Adj. Professor of Practice, University of Newcastle, Australia) at the MSE Experimental Center (Tsinghua University), and as a Teaching Assistant.
+- **HUFLIT University:** Bachelor of Cybersecurity (2023 – 2027 Expected) | GPA: 3.52/4.00
+- **Tsinghua University:** AI & Innovation Digital Economy (2026 – Present). Global Program on Innovation and Entrepreneurship for the 21st Century AI-Driven Knowledge Economy (IEDE2026126). Research at the MSE Experimental Center; Extended Teaching Assistant. Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII.
 
 ---
 
@@ -71,6 +71,14 @@ Cybersecurity Student & Software Engineer specializing in Backend (ASP.NET Core,
 - **Cloud / DevOps:** Docker, Nginx, AWS, GCP, Terraform, Cloudflare Developer Platform
 - **Databases:** MSSQL, PostgreSQL, MongoDB, Firebase, Supabase
 - **Security:** Suricata IDS, Wazuh, SOC/SOAR workflows, JWT, WAF, Zero Trust
+
+---
+
+## 📁 Selected Projects
+- **VETC AI Traffic Density:** Real-time GIS corridor monitoring for VETC (40+ cameras). YOLOv11 + SAHI + BoT-SORT density pipeline over Redis Streams; live G/Y/R Leaflet map.
+- **SecureCoating-Vision:** Evidence-gated electrode coating inspection (Tsinghua MSE Track 4). Fail-closed PASS/REJECT/HOLD gate on YOLO-seg; CoatingVision held-out mAP50 0.63; ~312 ms CPU pipeline.
+- **CTSmartCam:** AI camera surveillance with event-driven microservices, Redis Streams, Docker/Nginx.
+- **Multi-Cloud Serverless SOAR:** AWS/GCP automated containment with Terraform, Step Functions, and Cloud Workflows.
 
 ---
 

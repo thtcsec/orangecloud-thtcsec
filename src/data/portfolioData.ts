@@ -66,43 +66,51 @@ export const portfolioData = {
       subVi: "Backend Development · Applied AI · Cybersecurity",
       subEn: "Backend Development · Applied AI · Cybersecurity",
       paragraphsVi: [
-        "Software Engineer (Backend) Intern tại Grab và AI Engineer tại VETC — làm việc với backend microservices và Computer Vision cho hệ thống giao thông (ITS).",
-        "Sinh viên năm cuối ngành An toàn thông tin tại HUFLIT (GPA 3.50/4.0), hoàn thành chương trình Global Innovation tại Tsinghua University.",
-        "Đồng tác giả 7 bài báo nghiên cứu khoa học (CSONET, SOICT, IEEE RIVF, ICAI-FAI, VNICT) về AIOps, log anomaly detection và an ninh mạng SDN.",
-        "Đại sứ Agora, cựu Đại sứ Sinh viên Google Mùa 1 (Top 200), thành viên GDG HCMC và tham gia các side-project cloud tại OrangeCloud."
+        "Software Engineer (Backend) Intern tại Grab và AI Engineer tại VETC — backend microservices và Computer Vision cho hệ thống giao thông (ITS).",
+        "Sinh viên năm cuối ngành An toàn thông tin tại HUFLIT (GPA tích lũy 3.52/4.0, 138 tín chỉ). Cựu học viên Tsinghua IEDE & Extended TA; Admitted Scholar VinUniversity AI (Cohort 1, hoãn đến 2027).",
+        "Đồng tác giả 6 bài gửi hội nghị (VNICT 2026 accepted; CSONET, SOICT, IEEE RIVF, ICAI-FAI, GIGS đang review) về AIOps, log anomaly detection và an ninh mạng.",
+        "Đại sứ Agora, cựu Đại sứ Sinh viên Google Mùa 1 (Top 200), thành viên GDG HCMC. Side-project cloud trong hệ OrangeCloud."
       ],
       paragraphsEn: [
-        "Software Engineer (Backend) Intern at Grab and AI Engineer at VETC — working on backend microservices and Computer Vision for ITS.",
-        "Final-year Cybersecurity student at HUFLIT (GPA 3.50/4.0), completed the Global Innovation Program at Tsinghua University.",
-        "Co-author of 7 research papers (CSONET, SOICT, IEEE RIVF, ICAI-FAI, VNICT) on AIOps, log anomaly detection, and SDN security.",
-        "Agora Ambassador, ex-Google Student Ambassador Season 1 (Top 200), GDG HCMC member, and OrangeCloud cloud projects contributor."
+        "Software Engineer (Backend) Intern at Grab and AI Engineer at VETC — backend microservices and Computer Vision for ITS.",
+        "Final-year Cybersecurity student at HUFLIT (cumulative GPA 3.52/4.0, 138 credits). Tsinghua IEDE alumnus & Extended TA; VinUniversity AI Admitted Scholar (Cohort 1, deferred to 2027).",
+        "Co-author of 6 conference submissions (VNICT 2026 accepted; CSONET, SOICT, IEEE RIVF, ICAI-FAI, GIGS under review) on AIOps, log anomaly detection, and network security.",
+        "Agora Ambassador, ex-Google Student Ambassador Season 1 (Top 200), GDG HCMC member. Cloud side projects in the OrangeCloud ecosystem."
       ],
       stats: [
         {
           num: "12+",
-          labelVi: "Dự án thực tế",
-          labelEn: "Projects Built"
+          labelVi: "Dự án",
+          labelEn: "Projects"
         },
         {
-          num: "7",
-          labelVi: "Bài báo nghiên cứu",
-          labelEn: "Research Papers"
+          num: "6",
+          labelVi: "Bài gửi hội nghị",
+          labelEn: "Conference papers"
         },
         {
           num: "10+",
-          labelVi: "Giải thưởng & Hoạt động",
-          labelEn: "Awards & Activities"
+          labelVi: "Giải & hoạt động",
+          labelEn: "Awards & activities"
         },
         {
-          num: "3.50",
-          labelVi: "GPA (HUFLIT)",
-          labelEn: "GPA (HUFLIT)"
+          num: "3.52",
+          labelVi: "GPA tích lũy",
+          labelEn: "Cumulative GPA"
         }
       ]
     }
   },
 
   projects: [
+    {
+      id: "vetc-traffic-density",
+      title: "VETC AI Traffic Density",
+      tag: "Work",
+      descriptionVi: "Giám sát mật độ giao thông realtime trên GIS cho VETC (40+ camera HCMC). YOLOv11 + SAHI + BoT-SORT → Redis Streams; bản đồ G/Y/R trên Leaflet.",
+      descriptionEn: "Real-time GIS corridor monitoring for VETC (40+ HCMC cameras). YOLOv11 + SAHI + BoT-SORT over Redis Streams; live G/Y/R Leaflet map.",
+      tags: ["Python", "YOLOv11", "BoT-SORT", "Redis", "Leaflet"]
+    },
     {
       id: "orangecloud-insights",
       title: "OrangeCloud Insights",
@@ -137,9 +145,9 @@ export const portfolioData = {
       id: "securecoating-vision",
       title: "SecureCoating-Vision",
       tag: "Research",
-      descriptionVi: "Hệ thống Computer Vision kiểm tra khuyết tật bề mặt lớp phủ kết hợp dữ liệu đa cảm biến.",
-      descriptionEn: "Computer Vision system for surface defect inspection fusing multi-sensor data.",
-      tags: ["Python", "TensorRT", "FastAPI", "OpenCV"],
+      descriptionVi: "Kiểm tra lớp phủ điện cực fail-closed (Tsinghua MSE Track 4): YOLO-seg + cổng evidence PASS/REJECT/HOLD. Thermal/laser là adapter mô phỏng.",
+      descriptionEn: "Fail-closed electrode coating inspection (Tsinghua MSE Track 4): YOLO-seg plus an evidence gate (PASS/REJECT/HOLD). Thermal/laser are simulated adapters.",
+      tags: ["Python", "ONNX Runtime", "FastAPI", "OpenCV"],
       demo: "",
       github: "https://github.com/thtcsec"
     },
@@ -243,14 +251,14 @@ export const portfolioData = {
       linkTextEn: "Join group→"
     },
     {
-      id: "tsinghua",
-      name: "Tsinghua University IEDE",
-      stat: "Tsinghua",
-      roleVi: "Học viên chương trình Global Innovation",
-      roleEn: "Global Innovation Program Participant",
-      descVi: "Hoàn thành khóa học Global Innovation tại Tsinghua University dưới sự hướng dẫn của GS. Kris Singh.",
-      descEn: "Completed the Global Innovation Program at Tsinghua University supervised by Prof. Kris Singh.",
-      link: "https://www.tsinghua.edu.cn/en/",
+      id: "vinuni",
+      name: "VinUniversity AI Practical Talent",
+      stat: "VinUni",
+      roleVi: "Admitted Scholar (Cohort 1, hoãn đến 2027)",
+      roleEn: "Admitted Scholar (Cohort 1, deferred to 2027)",
+      descVi: "Trúng tuyển chương trình Đào tạo Nhân tài AI Thực chiến Cohort 1; enrollment được giữ chỗ đến 2027.",
+      descEn: "Admitted to the AI Practical Talent program, Cohort 1; enrollment reserved until 2027.",
+      link: "https://vinuni.edu.vn/",
       linkTextVi: "Tìm hiểu thêm→",
       linkTextEn: "Learn more→"
     }
@@ -264,8 +272,8 @@ export const portfolioData = {
       roleEn: "Software Engineer (Backend) Intern",
       companyVi: "Grab",
       companyEn: "Grab",
-      descVi: "Tham gia phát triển backend microservices và xây dựng các API phục vụ hệ thống.",
-      descEn: "Contributing to backend microservices development and API design."
+      descVi: "Tham gia phát triển backend microservices và API.",
+      descEn: "Contributing to backend microservices and API work."
     },
     {
       period: "2026 – nay",
@@ -274,26 +282,28 @@ export const portfolioData = {
       roleEn: "AI Engineer",
       companyVi: "VETC",
       companyEn: "VETC",
-      descVi: "Phát triển mô hình Computer Vision phân tích luồng video camera giao thông (ITS).",
-      descEn: "Developing Computer Vision models for traffic camera video analytics (ITS)."
+      descVi: "Computer Vision cho camera giao thông: mật độ realtime, GIS hành lang, microservices ITS.",
+      descEn: "Computer Vision for traffic cameras: real-time density, corridor GIS, ITS microservices."
     },
     {
       period: "2026 – nay",
-      roleVi: "Software Engineer",
-      roleEn: "Software Engineer",
-      companyVi: "Next Step Tech",
-      companyEn: "Next Step Tech",
-      descVi: "Phát triển các ứng dụng web và giải pháp cloud serverless.",
-      descEn: "Developing web applications and serverless cloud solutions."
+      isCurrent: true,
+      roleVi: "AI Infra & Cloud Solutions Engineer",
+      roleEn: "AI Infra & Cloud Solutions Engineer",
+      companyVi: "Next Step Technology Solutions",
+      companyEn: "Next Step Technology Solutions",
+      descVi: "Pipeline serverless trên Cloudflare (Workers AI, RAG, D1/R2/Vectorize).",
+      descEn: "Serverless pipelines on Cloudflare (Workers AI, RAG, D1/R2/Vectorize)."
     },
     {
-      period: "2025 – 2026",
-      roleVi: "Nghiên cứu sinh viên (Student Researcher)",
-      roleEn: "Student Researcher",
-      companyVi: "HUFLIT & Tsinghua IEDE",
-      companyEn: "HUFLIT & Tsinghua IEDE",
-      descVi: "Tham gia nghiên cứu AIOps, phân tích log và đồng tác giả 7 bài báo khoa học.",
-      descEn: "Research on AIOps and log anomaly detection; co-author of 7 research papers."
+      period: "2026 – nay",
+      isCurrent: true,
+      roleVi: "Extended Teaching Assistant",
+      roleEn: "Extended Teaching Assistant",
+      companyVi: "Tsinghua University IEDE",
+      companyEn: "Tsinghua University IEDE",
+      descVi: "Hoàn thành Global Innovation Program (IEDE2026126). Academic supervision — GS. Kris Singh, Tsinghua MSE / SRII.",
+      descEn: "Completed the Global Innovation Program (IEDE2026126). Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII."
     },
     {
       period: "2023 – 2027",
@@ -302,8 +312,8 @@ export const portfolioData = {
       roleEn: "Cybersecurity Student (B.S.)",
       companyVi: "HUFLIT",
       companyEn: "HUFLIT",
-      descVi: "Chương trình Cử nhân An toàn thông tin (GPA 3.50/4.0).",
-      descEn: "Bachelor of Science in Cybersecurity (GPA 3.50/4.0)."
+      descVi: "Cử nhân An toàn thông tin. GPA tích lũy 3.52/4.0 · 138 tín chỉ.",
+      descEn: "Bachelor of Cybersecurity. Cumulative GPA 3.52/4.0 · 138 credits."
     }
   ] as CareerItem[],
 
@@ -333,7 +343,7 @@ export const portfolioData = {
     certs: [
       {
         title: "Global Program on Innovation and Entrepreneurship",
-        issuer: "Tsinghua University (GS. Kris Singh)"
+        issuer: "Tsinghua University"
       },
       {
         title: "Google Cloud Computing Foundation",

@@ -17,8 +17,8 @@ export const Contact: React.FC<ContactProps> = ({ lang }) => {
           </h2>
           <p className="mt-2 text-gray-400">
             {lang === 'vi'
-              ? 'Kết nối để thảo luận về cloud, startups, hoặc hợp tác'
-              : 'Connect to discuss cloud, startups, or collaboration'}
+              ? 'Kết nối trao đổi về engineering hoặc cộng tác'
+              : 'Reach out about engineering work or collaboration'}
           </p>
         </div>
 
