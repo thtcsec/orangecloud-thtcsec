@@ -10,7 +10,7 @@ I am a Cybersecurity student and Software Engineer specializing in Cloud Computi
 ## 👨‍💻 Professional Summary
 I build robust, secure, and highly scalable AI, cloud-native, and microservices architectures. Currently, I hold the roles:
 - **Software Engineer (Backend) Intern** @ Grab (Aug 2026 – Present) — Java microservices and backend APIs.
-- **AI Engineer** @ VETC (Aug 2026 – Present) — Developing Intelligent Transportation Systems (ITS), Computer Vision pipelines for traffic camera analytics, real-time traffic density detection, road surveillance, and IoT sensor microservices.
+- **AI Engineer** @ VETC (Aug 2026 – Sep 2026) — Intelligent Transportation Systems (ITS), Computer Vision for traffic camera analytics, real-time traffic density detection, road surveillance, and IoT sensor microservices.
 - **AI Infra & Cloud Solutions Engineer** @ Next Step Technology Solutions (Jun 2026 – Present) — Serverless pipelines, Cloudflare Workers AI, and hybrid RAG systems.
 
 ---

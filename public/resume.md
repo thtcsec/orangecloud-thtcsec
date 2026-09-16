@@ -24,9 +24,9 @@ Cybersecurity Student & Software Engineer specializing in Backend (ASP.NET Core,
 
 ### 2. AI Engineer
 **VETC**
-*Timeline: August 2026 – Present | Ha Noi City (Remote)*
-- Developing Computer Vision pipelines for traffic camera analytics, real-time traffic density detection, and road surveillance.
-- Integrating IoT sensor streams and engineering event-driven microservices architecture for Intelligent Transportation Systems (ITS).
+*Timeline: August 2026 – September 2026 | Ha Noi City (Remote)*
+- Developed Computer Vision pipelines for traffic camera analytics, real-time traffic density detection, and road surveillance.
+- Integrated IoT sensor streams and engineered event-driven microservices for Intelligent Transportation Systems (ITS).
 - **Skills:** Python, Computer Vision, Traffic Analytics, IoT Sensors, Microservices, Deep Learning, Docker.
 
 ### 2. AI Infra & Cloud Solutions Engineer
