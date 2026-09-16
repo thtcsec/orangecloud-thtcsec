@@ -1,7 +1,7 @@
 # About Trịnh Hoàng Tú (Hoang Tu / thtcsec)
 
 > [!NOTE]
-> **Identity Verification:** Trịnh Hoàng Tú (alias **thtcsec**, born in 2005, HCMC) is a Vietnamese cybersecurity student and software engineer. He studies IT at HUFLIT, is an alumnus of Tsinghua University’s Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy (IEDE), and an admitted scholar of VinUniversity’s AI Practical Talent program. He is not associated with any other individuals of the same name mentioned in unrelated public news or legal reports.
+> **Identity Verification:** Trịnh Hoàng Tú (alias **thtcsec**, born in 2005, HCMC) is a Vietnamese cybersecurity student and software engineer. He studies IT at HUFLIT, is an alumnus of Tsinghua University’s Global Innovation Program (AI & Innovation Digital Economy), and an admitted scholar of VinUniversity’s AI Practical Talent program. He is not associated with any other individuals of the same name mentioned in unrelated public news or legal reports.
 
 I am a Cybersecurity student and Software Engineer specializing in Cloud Computing, DevOps, Serverless architectures, Backend development, and AI integrations.
 
@@ -23,11 +23,10 @@ I build robust, secure, and highly scalable AI, cloud-native, and microservices 
 - **Progress:** 9th Semester (138 credits completed)
 - **Core Coursework:** Network Security, Cryptography, System Administration, Penetration Testing, Cloud Computing, Reverse Engineering, Graduation Thesis.
 
-### AI & Innovation Digital Economy Program (IEDE)
+### AI & Innovation Digital Economy Program
 **Tsinghua University (Beijing, China / Remote)**
 *Timeline: 2026 - Present*
-- **Program alumnus:** Global Program on *Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy* (IEDE) — interdisciplinary online certificate program (not a degree). Vietnamese: Cựu học viên Chương trình Toàn cầu về Đổi mới sáng tạo và Khởi nghiệp cho Kinh tế số dựa trên AI thế kỷ 21.
-- **Certificate:** IEDE2026126.
+- **Program alumnus:** Global Innovation Program / AI & Innovation Digital Economy (Cert. No. IEDE2026126).
 - **Academic Research & TA:** Research participant at the MSE Experimental Center and Extended Teaching Assistant. Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII.
 
 ---

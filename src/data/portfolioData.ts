@@ -40,20 +40,20 @@ export interface CertItem {
 
 export const portfolioData = {
   profile: {
-    tagVi: "SOFTWARE ENGINEERING · BACKEND & AI",
-    tagEn: "SOFTWARE ENGINEERING · BACKEND & AI",
+    tagVi: "SOFTWARE ENGINEERING · APPLIED AI",
+    tagEn: "SOFTWARE ENGINEERING · APPLIED AI",
     name: "Trịnh Hoàng Tú",
     nameEn: "Trinh Hoang Tu",
     rolePlainVi: "Software Engineer (Backend) Intern",
     rolePlainEn: "Software Engineer (Backend) Intern",
     company: "Grab",
-    secondRolePlainVi: "AI Engineer (Aug–Sep 2026)",
-    secondRolePlainEn: "AI Engineer (Aug–Sep 2026)",
+    secondRolePlainVi: "AI Engineer",
+    secondRolePlainEn: "AI Engineer",
     secondCompany: "VETC",
     locationVi: "Việt Nam · TP. Hồ Chí Minh",
     locationEn: "Vietnam · Ho Chi Minh City",
-    taglineVi: "Backend microservices · Computer Vision cho ITS · DevSecOps",
-    taglineEn: "Backend microservices · Computer Vision for ITS · DevSecOps",
+    taglineVi: "Hướng tới Software Engineering và Applied AI — backend, CV, hệ thống thực tế",
+    taglineEn: "Building toward Software Engineering and Applied AI — backend, CV, real systems",
     avatar: "/images/portrait.jpg",
     email: "tht.csec2005@gmail.com",
     social: {
@@ -66,14 +66,14 @@ export const portfolioData = {
       subVi: "Backend Development · Applied AI · Cybersecurity",
       subEn: "Backend Development · Applied AI · Cybersecurity",
       paragraphsVi: [
-        "Software Engineer (Backend) Intern tại Grab. Từng là AI Engineer tại VETC (Aug–Sep 2026) — Computer Vision cho hệ thống giao thông (ITS).",
-        "Sinh viên năm cuối ngành An toàn thông tin tại HUFLIT (GPA tích lũy 3.52/4.0, 138 tín chỉ). Cựu học viên chương trình IEDE tại Tsinghua — Đổi mới sáng tạo & Khởi nghiệp cho Kinh tế số dựa trên AI thế kỷ 21 (IEDE2026126) & Extended TA; Admitted Scholar VinUniversity AI (Cohort 1, hoãn đến 2027).",
+        "Hướng tới Software Engineering và Applied AI. Hiện là Software Engineer (Backend) Intern tại Grab; từng là AI Engineer tại VETC — Computer Vision cho ITS.",
+        "Sinh viên năm cuối ngành An toàn thông tin tại HUFLIT (GPA tích lũy 3.52/4.0, 138 tín chỉ). Cựu học viên chương trình Global Innovation tại Tsinghua & Extended TA; Admitted Scholar VinUniversity AI (Cohort 1, hoãn đến 2027).",
         "Đồng tác giả 6 bài gửi hội nghị (VNICT 2026 accepted; CSONET, SOICT, IEEE RIVF, ICAI-FAI, GIGS đang review) về AIOps, log anomaly detection và an ninh mạng.",
         "Đại sứ Agora, cựu Đại sứ Sinh viên Google Mùa 1 (Top 200), thành viên GDG HCMC. Side-project cloud trong hệ OrangeCloud."
       ],
       paragraphsEn: [
-        "Software Engineer (Backend) Intern at Grab. Former AI Engineer at VETC (Aug–Sep 2026) — Computer Vision for ITS.",
-        "Final-year Cybersecurity student at HUFLIT (cumulative GPA 3.52/4.0, 138 credits). Alumnus of Tsinghua’s Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy (IEDE2026126) & Extended TA; VinUniversity AI Admitted Scholar (Cohort 1, deferred to 2027).",
+        "Building toward Software Engineering and Applied AI. Software Engineer (Backend) Intern at Grab; former AI Engineer at VETC — Computer Vision for ITS.",
+        "Final-year Cybersecurity student at HUFLIT (cumulative GPA 3.52/4.0, 138 credits). Alumnus of Tsinghua’s Global Innovation Program & Extended TA; VinUniversity AI Admitted Scholar (Cohort 1, deferred to 2027).",
         "Co-author of 6 conference submissions (VNICT 2026 accepted; CSONET, SOICT, IEEE RIVF, ICAI-FAI, GIGS under review) on AIOps, log anomaly detection, and network security.",
         "Agora Ambassador, ex-Google Student Ambassador Season 1 (Top 200), GDG HCMC member. Cloud side projects in the OrangeCloud ecosystem."
       ],
@@ -298,12 +298,12 @@ export const portfolioData = {
     {
       period: "2026 – nay",
       isCurrent: true,
-      roleVi: "Cựu học viên IEDE · Extended TA",
-      roleEn: "IEDE Program Alumnus · Extended TA",
+      roleVi: "Global Innovation Program · Extended TA",
+      roleEn: "Global Innovation Program · Extended TA",
       companyVi: "Tsinghua University",
       companyEn: "Tsinghua University",
-      descVi: "Cựu học viên Chương trình Toàn cầu về Đổi mới sáng tạo và Khởi nghiệp cho Kinh tế số dựa trên AI thế kỷ 21 (IEDE2026126) — chứng chỉ chương trình liên ngành, không phải bằng đại học. Academic supervision — GS. Kris Singh, Tsinghua MSE / SRII.",
-      descEn: "Alumnus of the Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy (IEDE2026126) — interdisciplinary certificate program, not a degree. Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII."
+      descVi: "Cựu học viên chương trình Global Innovation / AI & Innovation Digital Economy. Academic supervision — GS. Kris Singh, Tsinghua MSE / SRII.",
+      descEn: "Alumnus of the Global Innovation Program / AI & Innovation Digital Economy. Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII."
     },
     {
       period: "2023 – 2027",
@@ -342,7 +342,7 @@ export const portfolioData = {
     ],
     certs: [
       {
-        title: "IEDE — Innovation and Entrepreneurship (AI-driven Digital Economy)",
+        title: "Global Innovation Program — AI & Innovation Digital Economy",
         issuer: "Tsinghua University"
       },
       {

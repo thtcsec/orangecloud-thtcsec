@@ -72,7 +72,7 @@ A structured record of professional certifications, credentials, hackathon achie
 *   **Issuer:** Tsinghua University (Beijing, China)
 *   **Date:** May 2026
 *   **Credential Verification:** Certificate No: IEDE2026126
-*   **Description:** Alumnus of the Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy (IEDE) — an interdisciplinary online certificate program at Tsinghua University (not a degree). Certificate No. IEDE2026126.
+*   **Description:** Completed the Global Innovation Program / AI & Innovation Digital Economy at Tsinghua University. Certificate No. IEDE2026126.
 
 ### 2. Google Cloud Computing Foundations
 *   **Issuer:** Google Cloud

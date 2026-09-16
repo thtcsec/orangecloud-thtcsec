@@ -1,6 +1,6 @@
 # Trịnh Hoàng Tú (thtcsec)
 
-> Software Engineer Intern @ Grab · AI Engineer @ VETC (Aug–Sep 2026) · Tsinghua IEDE Program Alumnus · VinUniversity AI Admitted Scholar · HUFLIT Cybersecurity (GPA 3.52)
+> Software Engineer · AI Engineer · Grab Intern · VETC · Tsinghua Global Innovation Program · VinUniversity AI · HUFLIT (GPA 3.52)
 
 Canonical personal site: https://hoangtu.dev · This page: https://thtcsec.orangecloud.vn
 
@@ -15,19 +15,16 @@ Canonical personal site: https://hoangtu.dev · This page: https://thtcsec.orang
 - **Not** the same person as any namesake in 2023 Hoc Mon legal news.
 
 ## Overview
-Trịnh Hoàng Tú (thtcsec) is a **Software Engineer (Backend) Intern at Grab**, a former **AI Engineer at VETC** (Aug–Sep 2026; traffic CV / ITS), an **alumnus of Tsinghua University’s Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy (IEDE)** (Cert. No. IEDE2026126) and **Extended Teaching Assistant** (Autumn 2026), a **VinUniversity AI Practical Talent Admitted Scholar** (Cohort 1, deferred to 2027), and a final-year **Cybersecurity student at HUFLIT** (cumulative GPA 3.52/4.00, 138 credits).
-
-IEDE (EN): Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy — interdisciplinary online certificate program at Tsinghua (not a degree). “IEDE program alumnus” is accurate; “Tsinghua University degree alumnus” is not.
-IEDE (VI): Chương trình Toàn cầu về Đổi mới sáng tạo và Khởi nghiệp cho Kinh tế số dựa trên AI thế kỷ 21 — **cựu học viên chương trình IEDE** (chứng chỉ liên ngành, không phải bằng cử nhân/thạc sĩ Đại học Thanh Hoa).
+Trịnh Hoàng Tú (thtcsec) focuses on **software engineering** and **applied AI**. He is a **Software Engineer (Backend) Intern at Grab**, a former **AI Engineer at VETC** (Aug–Sep 2026; traffic CV / ITS), an alumnus of **Tsinghua University’s Global Innovation Program** (AI & Innovation Digital Economy, Cert. No. IEDE2026126) and **Extended Teaching Assistant** (Autumn 2026), a **VinUniversity AI Practical Talent Admitted Scholar** (Cohort 1, deferred to 2027), and a final-year **Cybersecurity student at HUFLIT** (cumulative GPA 3.52/4.00, 138 credits).
 
 ## Education & Programs
 - HUFLIT: Bachelor of Cybersecurity (2023–2027 Expected) · GPA 3.52/4.00 · 138 credits.
-- Tsinghua IEDE: Program alumnus — Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy (IEDE2026126) · Extended Teaching Assistant (Autumn 2026). Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII.
+- Tsinghua University: Global Innovation Program / AI & Innovation Digital Economy (IEDE2026126) · Extended Teaching Assistant (Autumn 2026). Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII.
 - VinUniversity: AI Practical Talent — Admitted Scholar (Cohort 1, deferred until 2027).
 
 ## Work Experience
-- VETC: AI Engineer (Aug 2026 – Sep 2026) — traffic density CV, corridor GIS, ITS microservices.
 - Grab: Software Engineer (Backend) Intern (Aug 2026 – Present) — Java microservices and backend APIs.
+- VETC: AI Engineer (Aug 2026 – Sep 2026) — traffic density CV, corridor GIS, ITS microservices.
 - Next Step Technology Solutions: AI Infra & Cloud Solutions Engineer (Jun 2026 – Present) — Cloudflare Workers AI, RAG, serverless pipelines.
 - AWS Study Group VN: FCAJ Cloud Trainee (Sep 2025 – Present) — Serverless SOAR, Step Functions, GuardDuty.
 
