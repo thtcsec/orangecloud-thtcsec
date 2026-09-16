@@ -20,7 +20,7 @@ A collection of featured engineering projects in web architectures, serverless s
 *   **Technologies:** PyTorch, Python, Ryu, ONOS, Mininet-WiFi, SUMO, Scapy, Flask, Docker
 *   **Access:** Private Research Repository
 *   **Highlights:**
-    *   *Academic Context:* Research proposal at Tsinghua University IEDE.
+    *   *Academic Context:* Research proposal under Tsinghua IEDE (Innovation and Entrepreneurship / AI-driven Digital Economy).
     *   Flow-level telemetry paired with Hybrid TCN-GRU anomaly detection achieving 97.33% accuracy.
     *   Model INT8 quantization reducing model size by 82% (0.174 MB) with 9.9ms response time.
     *   Automated Detect → Contain → Rollback safety-aware mitigation pipeline with cooldown policy.

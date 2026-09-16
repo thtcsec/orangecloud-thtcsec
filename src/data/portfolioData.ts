@@ -67,13 +67,13 @@ export const portfolioData = {
       subEn: "Backend Development · Applied AI · Cybersecurity",
       paragraphsVi: [
         "Software Engineer (Backend) Intern tại Grab và AI Engineer tại VETC — backend microservices và Computer Vision cho hệ thống giao thông (ITS).",
-        "Sinh viên năm cuối ngành An toàn thông tin tại HUFLIT (GPA tích lũy 3.52/4.0, 138 tín chỉ). Cựu học viên Tsinghua IEDE & Extended TA; Admitted Scholar VinUniversity AI (Cohort 1, hoãn đến 2027).",
+        "Sinh viên năm cuối ngành An toàn thông tin tại HUFLIT (GPA tích lũy 3.52/4.0, 138 tín chỉ). Hoàn thành chương trình IEDE tại Tsinghua — Đổi mới sáng tạo & Khởi nghiệp cho Kinh tế số dựa trên AI thế kỷ 21 (IEDE2026126) & Extended TA; Admitted Scholar VinUniversity AI (Cohort 1, hoãn đến 2027).",
         "Đồng tác giả 6 bài gửi hội nghị (VNICT 2026 accepted; CSONET, SOICT, IEEE RIVF, ICAI-FAI, GIGS đang review) về AIOps, log anomaly detection và an ninh mạng.",
         "Đại sứ Agora, cựu Đại sứ Sinh viên Google Mùa 1 (Top 200), thành viên GDG HCMC. Side-project cloud trong hệ OrangeCloud."
       ],
       paragraphsEn: [
         "Software Engineer (Backend) Intern at Grab and AI Engineer at VETC — backend microservices and Computer Vision for ITS.",
-        "Final-year Cybersecurity student at HUFLIT (cumulative GPA 3.52/4.0, 138 credits). Tsinghua IEDE alumnus & Extended TA; VinUniversity AI Admitted Scholar (Cohort 1, deferred to 2027).",
+        "Final-year Cybersecurity student at HUFLIT (cumulative GPA 3.52/4.0, 138 credits). Completed Tsinghua’s Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy (IEDE2026126) & Extended TA; VinUniversity AI Admitted Scholar (Cohort 1, deferred to 2027).",
         "Co-author of 6 conference submissions (VNICT 2026 accepted; CSONET, SOICT, IEEE RIVF, ICAI-FAI, GIGS under review) on AIOps, log anomaly detection, and network security.",
         "Agora Ambassador, ex-Google Student Ambassador Season 1 (Top 200), GDG HCMC member. Cloud side projects in the OrangeCloud ecosystem."
       ],
@@ -298,12 +298,12 @@ export const portfolioData = {
     {
       period: "2026 – nay",
       isCurrent: true,
-      roleVi: "Extended Teaching Assistant",
-      roleEn: "Extended Teaching Assistant",
-      companyVi: "Tsinghua University IEDE",
-      companyEn: "Tsinghua University IEDE",
-      descVi: "Hoàn thành Global Innovation Program (IEDE2026126). Academic supervision — GS. Kris Singh, Tsinghua MSE / SRII.",
-      descEn: "Completed the Global Innovation Program (IEDE2026126). Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII."
+      roleVi: "Extended Teaching Assistant · IEDE",
+      roleEn: "Extended Teaching Assistant · IEDE",
+      companyVi: "Tsinghua University",
+      companyEn: "Tsinghua University",
+      descVi: "Hoàn thành Chương trình Toàn cầu về Đổi mới sáng tạo và Khởi nghiệp cho Kinh tế số dựa trên AI thế kỷ 21 (IEDE2026126) — chứng chỉ chương trình liên ngành, không phải bằng đại học. Academic supervision — GS. Kris Singh, Tsinghua MSE / SRII.",
+      descEn: "Completed the Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy (IEDE2026126) — interdisciplinary certificate program, not a degree. Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII."
     },
     {
       period: "2023 – 2027",
@@ -342,7 +342,7 @@ export const portfolioData = {
     ],
     certs: [
       {
-        title: "Global Program on Innovation and Entrepreneurship",
+        title: "IEDE — Innovation and Entrepreneurship (AI-driven Digital Economy)",
         issuer: "Tsinghua University"
       },
       {
