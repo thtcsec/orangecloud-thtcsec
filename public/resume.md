@@ -61,7 +61,7 @@ Cybersecurity Student & Software Engineer specializing in Backend (ASP.NET Core,
 
 ## 🎓 Education & Programs
 - **HUFLIT University:** Bachelor of Cybersecurity (2023 – 2027 Expected) | GPA: 3.52/4.00
-- **Tsinghua University — IEDE:** Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy (IEDE2026126) — interdisciplinary certificate program (Đổi mới sáng tạo & Khởi nghiệp / Kinh tế số dựa trên AI). Research at the MSE Experimental Center; Extended Teaching Assistant. Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII.
+- **Tsinghua IEDE:** Alumnus of the Global Program on Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy (IEDE2026126) — Đổi mới sáng tạo & Khởi nghiệp / Kinh tế số AI (certificate program, not a degree). Research at the MSE Experimental Center; Extended Teaching Assistant. Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII.
 
 ---
 
