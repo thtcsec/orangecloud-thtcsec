@@ -19,7 +19,7 @@ Trịnh Hoàng Tú (thtcsec) focuses on **software engineering** and **applied A
 
 ## Education & Programs
 - HUFLIT: Bachelor of Cybersecurity (2023–2027 Expected) · GPA 3.52/4.00 · 138 credits.
-- Tsinghua University: Global Innovation Program / AI & Innovation Digital Economy (IEDE2026126) · Extended Teaching Assistant (Autumn 2026). Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII.
+- Tsinghua University: Global Innovation Program / AI & Innovation Digital Economy (IEDE2026126) · Extended Teaching Assistant (Autumn 2026). Academic supervision — [Prof. Kris Singh](https://bigdata.tsinghua.edu.cn/Iiede/nstructor/Index.html), Tsinghua MSE / SRII.
 - VinUniversity: AI Practical Talent — Admitted Scholar (Cohort 1, deferred until 2027).
 
 ## Work Experience

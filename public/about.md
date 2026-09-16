@@ -27,7 +27,7 @@ I build robust, secure, and highly scalable AI, cloud-native, and microservices 
 **Tsinghua University (Beijing, China / Remote)**
 *Timeline: 2026 - Present*
 - **Program alumnus:** Global Innovation Program / AI & Innovation Digital Economy (Cert. No. IEDE2026126).
-- **Academic Research & TA:** Research participant at the MSE Experimental Center and Extended Teaching Assistant. Academic supervision — Prof. Kris Singh, Tsinghua MSE / SRII.
+- **Academic Research & TA:** Research participant at the MSE Experimental Center and Extended Teaching Assistant. Academic supervision — [Prof. Kris Singh](https://bigdata.tsinghua.edu.cn/Iiede/nstructor/Index.html), Tsinghua MSE / SRII.
 
 ---
 

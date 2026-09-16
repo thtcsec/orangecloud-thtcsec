@@ -41,7 +41,23 @@ export const Career: React.FC<CareerProps> = ({ lang }) => {
               </h3>
 
               <p className="mt-2 text-sm leading-relaxed text-gray-400">
-                {lang === 'vi' ? item.descVi : item.descEn}
+                {(lang === 'vi' ? item.descVi : item.descEn)
+                  .split(/(Prof\. Kris Singh|GS\. Kris Singh)/)
+                  .map((part, i) =>
+                    part === 'Prof. Kris Singh' || part === 'GS. Kris Singh' ? (
+                      <a
+                        key={i}
+                        href="https://bigdata.tsinghua.edu.cn/Iiede/nstructor/Index.html"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="font-medium text-gray-200 underline-offset-2 hover:text-cf-orange hover:underline transition-colors"
+                      >
+                        {part}
+                      </a>
+                    ) : (
+                      <React.Fragment key={i}>{part}</React.Fragment>
+                    )
+                  )}
               </p>
             </div>
           ))}
