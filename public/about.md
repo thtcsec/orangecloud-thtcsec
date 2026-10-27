@@ -9,7 +9,7 @@ I am a Cybersecurity student and Software Engineer specializing in Cloud Computi
 
 ## 👨‍💻 Professional Summary
 I build robust, secure, and highly scalable AI, cloud-native, and microservices architectures. Currently, I hold the roles:
-- **Software Engineer (Backend) Intern** @ Grab (Aug 2026 – Present) — Java microservices and backend APIs.
+- **Software Engineer (Backend, in Training)** @ Grab (Aug 2026 – Present) — Java microservices and backend APIs.
 - **AI Engineer** @ VETC (Aug 2026 – Sep 2026) — Intelligent Transportation Systems (ITS), Computer Vision for traffic camera analytics, real-time traffic density detection, road surveillance, and IoT sensor microservices.
 - **AI Infra & Cloud Solutions Engineer** @ Next Step Technology Solutions (Jun 2026 – Present) — Serverless pipelines, Cloudflare Workers AI, and hybrid RAG systems.
 
@@ -28,24 +28,38 @@ I build robust, secure, and highly scalable AI, cloud-native, and microservices 
 *Timeline: 2026 - Present*
 - **Program alumnus:** Global Innovation Program / AI & Innovation Digital Economy (Cert. No. IEDE2026126).
 - **Academic Research & TA:** Research participant at the MSE Experimental Center and Extended Teaching Assistant. Academic supervision — [Prof. Kris Singh](https://bigdata.tsinghua.edu.cn/Iiede/nstructor/Index.html), Tsinghua MSE / SRII.
+- **Learning Experience Ambassador:** Future Learning with AI: Higher Education Learning Innovation, School of Education (Fall 2026, Inaugural Cohort).
+
+---
+
+## 📑 Research publications
+- **CSoNet 2026 (Accepted, Springer LNCS)** — *Network-Aware Event Sequence Modeling for User-Behavior and System Log Anomaly Detection.* Artifact: [thtcsec/log-anomaly-tcn-transformer](https://github.com/thtcsec/log-anomaly-tcn-transformer). Extends a VNICT 2026 manuscript withdrawn before publication.
+- **SOICT 2026 (Accepted, Springer CCIS)** — *Campus Log Anomaly Detection under Proxy Labels: Validity Limits of Archive Splits and Masked TCN–Transformers.* Artifact: [thtcsec/soict2026-llm-log-rca](https://github.com/thtcsec/soict2026-llm-log-rca). Custom parser (not Drain3); no LLM/RCA claims.
+- **IEEE RIVF 2026 (Accepted)** — *Same Flows, Opposite Verdicts: Feature Reconstruction in Cross-Dataset Intrusion Detection.* Artifact: [thtcsec/rivf2026-federated-edge](https://github.com/thtcsec/rivf2026-federated-edge/tree/rivf2026-camera-ready). FedAvg is the evaluation setting, not the cause.
+- **ICAI-2026 (Under Review)** — *An AI-Native Event-Driven Edge–Cloud Architecture for Autonomous Network Security in Campus Infrastructure.* Code artifact: [thtcsec/icai-fai2026](https://github.com/thtcsec/icai-fai2026). Manuscript PDF is CMT-only.
+- **VNICT 2026 (Withdrawn)** — predecessor of the CSoNet paper; withdrawn before publication.
 
 ---
 
 ## 🏆 Competitions & Hackathons
 I actively participate in hackathons to test my skills under pressure and solve real-world problems.
 
+- **iF Design - iF DESIGN STUDENT AWARD 2027** (Sep 2026 - Feb 2027) — *Participant*
+- **VTV x NDC x Techcombank - AI Thực Chiến 2026 (thucchien.ai)** (July 2026 - Jan 2027) — *Participant (Team AI404)*
+- **OIF x Business France - FrancoTech Innovation Competition 2026** (Aug - Nov 2026) — *Semi-Finalist*
+- **HCMUT x Tasco - MLAI Hackathon 2026 (Vietnam Map Challenge)** (Aug - Oct 2026) — *Finalist (Team NexRoute)*
 - **Hoa Sen University - HSU AI-Driven Challenge 2026** (July - Aug 2026) — *3rd Runner Up (Team Firewall404)*
 - **Viettel Group - Viettel AI Race 2026** (June - Sept 2026) — *Participant*
-- **Tsinghua University - 全球AI+材料创新应用大赛** (Apr - Sep 2026) — *Finalist (Track 4 · finals 19 Sep 2026)*
+- **Tsinghua University - 全球AI+材料创新应用大赛** (Apr - Sep 2026) — *Excellence Award (Track 4 · ceremony 29 Sep 2026)*
 - **QC4SG 2026 - International Quantum Computing Hackathon** (Feb - July 2026) — *Finalist*
 - **GenAIFund - Agentic AI Build Week** (July 2026) — *Founding Builder*
 - **UNDP x Grab Vietnam - GRAB the Future Hackathon** (May - June 2026) — *Selected Participant*
 - **Ho Chi Minh City AI Challenge 2026** (May - Oct 2026) — *Participant*
 - **Vietnamese Student HackAIthon 2026** (May - July 2026) — *Participant*
-- **MUGVN × MongoDB Mini Hackathon 2026** (June 2026) — *Ranked 2nd (Team Vector404)*
+- **MUGVN × MongoDB Mini Hackathon 2026** (June 2026) — *Ranked 2nd / Top 7 Finalists (Team Vector404)*
 - **ByteDance - Unbound Creativity with TRAE SOLO @ Vietnam** (May 2026) — *Participant*
 - **VinUniversity - The Gridbreakers Datathon 2026** (May 2026) — *Top 10 Finalist (Team GenCore)*
-- **GenAIFund x Tasco - Tasco Foundry 2026** (May 2026) — *Top 11 Finalist (Team CARO)*
+- **GenAIFund x Tasco - Tasco Foundry 2026** (May 2026) — *Top 10 Finalist (Team CARO)*
 - **AI Ready ASEAN Youth Challenge** (May 2026) — *Participant*
 - **Alibaba Cloud x GenAIFund - Qwen AI Build Day Vietnam** (April 2026) — *Top 10 Finalist*
 - **Kaggle - AI Mathematical Olympiad** (Nov 2025 - Apr 2026) — *Competitor*

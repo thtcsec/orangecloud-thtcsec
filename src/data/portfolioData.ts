@@ -38,18 +38,29 @@ export interface CertItem {
   issuer: string;
 }
 
+export interface PublicationItem {
+  id: string;
+  title: string;
+  venue: string;
+  status: "Accepted" | "Under Review" | "Withdrawn";
+  statusVi: string;
+  github?: string;
+  noteVi?: string;
+  noteEn?: string;
+}
+
 export const portfolioData = {
   profile: {
     tagVi: "SOFTWARE ENGINEERING · APPLIED AI",
     tagEn: "SOFTWARE ENGINEERING · APPLIED AI",
     name: "Trịnh Hoàng Tú",
     nameEn: "Trinh Hoang Tu",
-    rolePlainVi: "Software Engineer (Backend) Intern",
-    rolePlainEn: "Software Engineer (Backend) Intern",
+    rolePlainVi: "Software Engineer (Backend, in Training)",
+    rolePlainEn: "Software Engineer (Backend, in Training)",
     company: "Grab",
-    secondRolePlainVi: "AI Engineer",
-    secondRolePlainEn: "AI Engineer",
-    secondCompany: "VETC",
+    secondRolePlainVi: "AI Infra & Cloud Solutions Engineer",
+    secondRolePlainEn: "AI Infra & Cloud Solutions Engineer",
+    secondCompany: "Next Step Technology Solutions",
     locationVi: "Việt Nam · TP. Hồ Chí Minh",
     locationEn: "Vietnam · Ho Chi Minh City",
     taglineVi: "Hướng tới Software Engineering và Applied AI — backend, CV, hệ thống thực tế",
@@ -66,15 +77,15 @@ export const portfolioData = {
       subVi: "Backend Development · Applied AI · Cybersecurity",
       subEn: "Backend Development · Applied AI · Cybersecurity",
       paragraphsVi: [
-        "Hướng tới Software Engineering và Applied AI. Hiện là Software Engineer (Backend) Intern tại Grab; từng là AI Engineer tại VETC — Computer Vision cho ITS.",
+        "Hướng tới Software Engineering và Applied AI. Hiện là Software Engineer (Backend, in Training) tại Grab; từng là AI Engineer tại VETC — Computer Vision cho ITS.",
         "Sinh viên năm cuối ngành An toàn thông tin tại HUFLIT (GPA tích lũy 3.52/4.0, 138 tín chỉ). Cựu học viên chương trình Global Innovation tại Tsinghua & Extended TA; Admitted Scholar VinUniversity AI (Cohort 1, hoãn đến 2027).",
-        "Đồng tác giả 6 bài gửi hội nghị (VNICT 2026 accepted; CSONET, SOICT, IEEE RIVF, ICAI-FAI, GIGS đang review) về AIOps, log anomaly detection và an ninh mạng.",
+        "Đồng tác giả 3 bài đã chấp nhận (CSoNet, SOICT, IEEE RIVF 2026) và 1 bài đang phản biện (ICAI-2026). VNICT 2026 đã rút trước khi xuất bản — được kế thừa bởi CSoNet.",
         "Đại sứ Agora, cựu Đại sứ Sinh viên Google Mùa 1 (Top 200), thành viên GDG HCMC. Side-project cloud trong hệ OrangeCloud."
       ],
       paragraphsEn: [
-        "Building toward Software Engineering and Applied AI. Software Engineer (Backend) Intern at Grab; former AI Engineer at VETC — Computer Vision for ITS.",
+        "Building toward Software Engineering and Applied AI. Software Engineer (Backend, in Training) at Grab; former AI Engineer at VETC — Computer Vision for ITS.",
         "Final-year Cybersecurity student at HUFLIT (cumulative GPA 3.52/4.0, 138 credits). Alumnus of Tsinghua’s Global Innovation Program & Extended TA; VinUniversity AI Admitted Scholar (Cohort 1, deferred to 2027).",
-        "Co-author of 6 conference submissions (VNICT 2026 accepted; CSONET, SOICT, IEEE RIVF, ICAI-FAI, GIGS under review) on AIOps, log anomaly detection, and network security.",
+        "Co-author of 3 accepted papers (CSoNet, SOICT, IEEE RIVF 2026) and 1 under review (ICAI-2026). A VNICT 2026 manuscript was withdrawn before publication and extended as the CSoNet paper.",
         "Agora Ambassador, ex-Google Student Ambassador Season 1 (Top 200), GDG HCMC member. Cloud side projects in the OrangeCloud ecosystem."
       ],
       stats: [
@@ -84,9 +95,9 @@ export const portfolioData = {
           labelEn: "Projects"
         },
         {
-          num: "6",
-          labelVi: "Bài gửi hội nghị",
-          labelEn: "Conference papers"
+          num: "3",
+          labelVi: "Bài đã chấp nhận",
+          labelEn: "Accepted papers"
         },
         {
           num: "10+",
@@ -149,7 +160,7 @@ export const portfolioData = {
       descriptionEn: "Fail-closed electrode coating inspection (Tsinghua MSE Track 4): YOLO-seg plus an evidence gate (PASS/REJECT/HOLD). Thermal/laser are simulated adapters.",
       tags: ["Python", "ONNX Runtime", "FastAPI", "OpenCV"],
       demo: "",
-      github: "https://github.com/thtcsec"
+      github: "https://github.com/thtcsec/securecoating-vision"
     },
     {
       id: "enterpriserag",
@@ -200,18 +211,60 @@ export const portfolioData = {
       tags: ["Kotlin", "Java", "Android Media3"],
       demo: "https://thtcsec.github.io/silentpipe",
       github: "https://github.com/thtcsec/SilentPipe"
-    },
-    {
-      id: "pentest-lab",
-      title: "Realistic Pentest Lab",
-      tag: "Security",
-      descriptionVi: "Môi trường lab thực hành an ninh mạng, Web và Active Directory triển khai qua Docker.",
-      descriptionEn: "Hands-on cybersecurity practice lab for Web and Active Directory with Docker.",
-      tags: ["Docker", "Linux", "Active Directory", "Security"],
-      demo: "https://hoangtu.dev/pentestlab",
-      github: "https://github.com/thtcsec"
     }
   ] as Project[],
+
+  publications: [
+    {
+      id: "csonet-2026",
+      title: "Network-Aware Event Sequence Modeling for User-Behavior and System Log Anomaly Detection",
+      venue: "CSoNet 2026 · Springer LNCS",
+      status: "Accepted",
+      statusVi: "Đã chấp nhận",
+      github: "https://github.com/thtcsec/log-anomaly-tcn-transformer",
+      noteVi: "Kế thừa bản thảo VNICT 2026 đã rút trước khi xuất bản. Drain3 + GraphWalk; không trộn claim với SOICT.",
+      noteEn: "Extends a VNICT 2026 manuscript withdrawn before publication. Drain3 + GraphWalk; not the SOICT paper."
+    },
+    {
+      id: "soict-2026",
+      title: "Campus Log Anomaly Detection under Proxy Labels: Validity Limits of Archive Splits and Masked TCN–Transformers",
+      venue: "SOICT 2026 · Springer CCIS",
+      status: "Accepted",
+      statusVi: "Đã chấp nhận",
+      github: "https://github.com/thtcsec/soict2026-llm-log-rca",
+      noteVi: "Parser tùy chỉnh, không Drain3; không LLM/RCA. Nhãn proxy, không ground truth SOC.",
+      noteEn: "Custom parser, not Drain3; no LLM/RCA. Proxy labels, not SOC ground truth."
+    },
+    {
+      id: "rivf-2026",
+      title: "Same Flows, Opposite Verdicts: Feature Reconstruction in Cross-Dataset Intrusion Detection",
+      venue: "IEEE RIVF 2026 · IEEE Xplore",
+      status: "Accepted",
+      statusVi: "Đã chấp nhận",
+      github: "https://github.com/thtcsec/rivf2026-federated-edge/tree/rivf2026-camera-ready",
+      noteVi: "FedAvg là thiết lập đánh giá, không phải nguyên nhân đảo dấu ROC-AUC.",
+      noteEn: "FedAvg is the evaluation setting, not the cause of the ROC-AUC sign flip."
+    },
+    {
+      id: "icai-2026",
+      title: "An AI-Native Event-Driven Edge–Cloud Architecture for Autonomous Network Security in Campus Infrastructure",
+      venue: "ICAI-2026",
+      status: "Under Review",
+      statusVi: "Đang phản biện",
+      github: "https://github.com/thtcsec/icai-fai2026",
+      noteVi: "Artifact mã nguồn; bản thảo PDF chỉ trên CMT.",
+      noteEn: "Code artifact only; manuscript PDF stays on CMT."
+    },
+    {
+      id: "vnict-2026",
+      title: "Application of TCN and Transformer Networks for Log Anomaly Detection in Large-Scale Enterprise and Industrial Networks",
+      venue: "VNICT 2026",
+      status: "Withdrawn",
+      statusVi: "Đã rút",
+      noteVi: "Rút trước khi xuất bản. Bản mở rộng là CSoNet 2026.",
+      noteEn: "Withdrawn before publication. Extended as the CSoNet 2026 paper."
+    }
+  ] as PublicationItem[],
 
   community: [
     {
@@ -268,8 +321,8 @@ export const portfolioData = {
     {
       period: "2026 – nay",
       isCurrent: true,
-      roleVi: "Software Engineer (Backend) Intern",
-      roleEn: "Software Engineer (Backend) Intern",
+      roleVi: "Software Engineer (Backend, in Training)",
+      roleEn: "Software Engineer (Backend, in Training)",
       companyVi: "Grab",
       companyEn: "Grab",
       descVi: "Tham gia phát triển backend microservices và API.",
@@ -341,6 +394,10 @@ export const portfolioData = {
       }
     ],
     certs: [
+      {
+        title: "Excellence Award — Global AI + Materials Innovation Application Competition (Track 4)",
+        issuer: "Tsinghua University MSE"
+      },
       {
         title: "Global Innovation Program — AI & Innovation Digital Economy",
         issuer: "Tsinghua University"

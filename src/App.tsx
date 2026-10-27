@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { About } from './components/About';
+import { Publications } from './components/Publications';
 import { Projects } from './components/Projects';
 import { Community } from './components/Community';
 import { Career } from './components/Career';
@@ -32,6 +33,7 @@ export const App: React.FC = () => {
       <main>
         <Hero lang={lang} />
         <About lang={lang} />
+        <Publications lang={lang} />
         <Projects lang={lang} />
         <Community lang={lang} />
         <Career lang={lang} />

@@ -15,8 +15,8 @@ export const Career: React.FC<CareerProps> = ({ lang }) => {
           </h2>
           <p className="mt-2 text-gray-400">
             {lang === 'vi'
-              ? 'Quá trình thực tập, nghiên cứu và học vấn'
-              : 'Internships, research, and education'}
+              ? 'Quá trình làm việc, nghiên cứu và học vấn'
+              : 'Roles, research, and education'}
           </p>
         </div>
 

@@ -2,6 +2,16 @@
 
 Deep-dive technical auditing, performance profiling, and machine learning research logs.
 
+Archival conference papers (source of truth: [hoangtu.dev/publications](https://hoangtu.dev/publications)):
+
+- **CSoNet 2026 (Accepted)** — Network-Aware Event Sequence Modeling… · [artifact](https://github.com/thtcsec/log-anomaly-tcn-transformer)
+- **SOICT 2026 (Accepted)** — Campus Log Anomaly Detection under Proxy Labels… · [artifact](https://github.com/thtcsec/soict2026-llm-log-rca)
+- **IEEE RIVF 2026 (Accepted)** — Same Flows, Opposite Verdicts… · [artifact](https://github.com/thtcsec/rivf2026-federated-edge/tree/rivf2026-camera-ready)
+- **ICAI-2026 (Under Review)** — An AI-Native Event-Driven Edge–Cloud Architecture… · [code artifact](https://github.com/thtcsec/icai-fai2026)
+- **VNICT 2026 (Withdrawn)** — predecessor of the CSoNet paper
+
+The May 2026 LogBERT note below is a lab write-up, not a conference paper, and is not a claim of the later CSoNet/SOICT results.
+
 ---
 
 ## 📑 Articles Index

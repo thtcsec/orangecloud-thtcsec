@@ -25,6 +25,9 @@ export const Navbar: React.FC<NavbarProps> = ({ lang, setLang }) => {
           <a href="#about" className="hover:text-cf-orange transition-colors">
             {lang === 'vi' ? 'Giới thiệu' : 'About'}
           </a>
+          <a href="#publications" className="hover:text-cf-orange transition-colors">
+            {lang === 'vi' ? 'Công bố' : 'Papers'}
+          </a>
           <a href="#projects" className="hover:text-cf-orange transition-colors">
             {lang === 'vi' ? 'Dự án' : 'Projects'}
           </a>
@@ -74,6 +77,9 @@ export const Navbar: React.FC<NavbarProps> = ({ lang, setLang }) => {
           <div className="flex flex-col gap-3 text-sm text-gray-300">
             <a href="#about" onClick={() => setMobileOpen(false)} className="hover:text-cf-orange">
               {lang === 'vi' ? 'Giới thiệu' : 'About'}
+            </a>
+            <a href="#publications" onClick={() => setMobileOpen(false)} className="hover:text-cf-orange">
+              {lang === 'vi' ? 'Công bố' : 'Papers'}
             </a>
             <a href="#projects" onClick={() => setMobileOpen(false)} className="hover:text-cf-orange">
               {lang === 'vi' ? 'Dự án' : 'Projects'}

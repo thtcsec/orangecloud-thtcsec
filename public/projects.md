@@ -82,9 +82,9 @@ A collection of featured engineering projects in web architectures, serverless s
 ### 6. SecureCoating-Vision — Evidence-Gated Electrode Inspection
 *   **Domain:** Computer Vision & AI for Materials Science
 *   **Technologies:** Python, FastAPI, PyTorch, ONNX Runtime, Streamlit, OpenCV, Docker
-*   **Access:** Private competition repository
+*   **Source Code:** [github.com/thtcsec/securecoating-vision](https://github.com/thtcsec/securecoating-vision)
 *   **Highlights:**
-    *   *Competition:* 2026 Global AI + Materials (Tsinghua MSE), Track 4 — AI + Materials Testing and Characterization.
+    *   *Award:* Excellence Award — 2026 Global AI + Materials (Tsinghua MSE), Track 4 — AI + Materials Testing and Characterization. Ceremony 29 September 2026.
     *   Fail-closed inspection: RGB YOLO-seg localization, then an evidence gate that may only PASS/REJECT when sensors, calibration, traceability, and PLC ACK agree; otherwise HOLD.
     *   Thermal and laser channels are simulated adapters in this prototype — not a claim of deployed multi-sensor fusion.
     *   Held-out CoatingVision optical test-split: mAP50 0.63; live mean pipeline latency ~312 ms on CPU.
@@ -131,16 +131,7 @@ A collection of featured engineering projects in web architectures, serverless s
     *   Background playback, offline download, and custom 10-band equalizer presets.
     *   Python-powered `yt-dlp` integration running locally on Android using Chaquopy.
 
-### 7. Realistic Pentest Home Lab Series
-*   **Domain:** Security Lab / Infrastructure
-*   **Technologies:** Docker, Python, Node.js, PHP, Active Directory
-*   **Source Code:** [github.com/thtcsec/PentestLab](https://github.com/thtcsec/PentestLab)
-*   **Highlights:**
-    *   Segregated environments based on Phases (Web, Active Directory, Cloud).
-    *   100% reproducible with One-Click Docker installation.
-    *   Focuses on: Root Cause ➜ Attack Path ➜ Mitigation ➜ Detection.
-
-### 8. Lumisight Core (AI Sentinel)
+### 7. Lumisight Core (AI Sentinel)
 *   **Domain:** Edge AI / Vision
 *   **Technologies:** Python, OpenCV, Docker, MediaPipe, YOLOv8, Snowflake
 *   **Source Code:** [github.com/thtcsec/Lumisight-Core](https://github.com/thtcsec/Lumisight-Core)
@@ -148,21 +139,21 @@ A collection of featured engineering projects in web architectures, serverless s
     *   Spatial & anomaly detection system running 100% on edge devices.
     *   Zero-shot frame-differencing & Hybrid AI engines with instant Telegram alerts.
 
-### 9. Face Recognition System
+### 8. Face Recognition System
 *   **Domain:** AI & Distributed Systems
 *   **Technologies:** Java, Python, OpenCV, Flask, Gradle, Swing
 *   **Highlights:**
     *   Multi-threaded Java socket server architecture.
     *   Python Flask API generating face embeddings for real-time recognition.
 
-### 10. Yodobashi Ultimate Sniper
+### 9. Yodobashi Ultimate Sniper
 *   **Domain:** Web Automation / Browser Automation
 *   **Technologies:** Playwright, Node.js, JavaScript, Stealth Tech
 *   **Highlights:**
     *   Stealth resource blocking & anti-detection mechanisms.
     *   50ms real-time availability watcher for rapid order execution.
 
-### 11. ChainCampus - Blockchain Event Ticketing
+### 10. ChainCampus - Blockchain Event Ticketing
 *   **Domain:** Web3 / Smart Contracts
 *   **Technologies:** Django, PostgreSQL, Ethereum, Solidity, Hardhat, Web3.py
 *   **Highlights:**

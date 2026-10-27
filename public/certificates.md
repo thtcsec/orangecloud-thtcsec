@@ -6,10 +6,10 @@ A structured record of professional certifications, credentials, hackathon achie
 
 ## 🏆 Hackathons & Academic Achievements
 
-### 1. Finalist — Global AI + Materials Innovation Application Competition
-*   **Issuer:** Tsinghua University
+### 1. Excellence Award — Global AI + Materials Innovation Application Competition
+*   **Issuer:** Tsinghua University School of Materials Science and Engineering
 *   **Date:** April – September 2026
-*   **Description:** Finalist in Track 4 (AI + Materials Testing) with SecureCoating-Vision. Invited to the official innovation training camp (August 2026) and finals in Beijing (19 September 2026).
+*   **Description:** Official Excellence Award (优秀奖) for Track 4 (AI + Materials Testing) with SecureCoating-Vision. Ceremony held in Beijing, 29 September 2026.
 
 ### 2. 3rd Runner Up — HSU AI-Driven Challenge 2026
 *   **Issuer:** Hoa Sen University (HSU)
@@ -21,10 +21,10 @@ A structured record of professional certifications, credentials, hackathon achie
 *   **Date:** July 2026
 *   **Description:** Selected as Finalist (Team 23) in the Quantum Computing for Social Good (QC4SG) 2026 International Hackathon. Built QUASAR: A classical-quantum hybrid logistics engine pairing classical local search (Google OR-Tools) with 127-qubit IBM QPU QAOA algorithms for Traveling Salesperson Problem optimization.
 
-### 4. Ranked 2nd — MUGVN & MongoDB Mini Hackathon 2026
+### 4. Ranked 2nd / Top 7 Finalists — MUGVN & MongoDB Mini Hackathon 2026
 *   **Issuer:** MongoDB User Group Vietnam (MUGVN) & MongoDB
 *   **Date:** June 2026
-*   **Description:** Awarded 2nd place in the National Finals of the MUGVN & MongoDB Mini Hackathon 2026 (Team Vector404) with the project "DriftSkills AI".
+*   **Description:** Awarded 2nd place among Top 7 Finalists in the National Finals of the MUGVN & MongoDB Mini Hackathon 2026 (Team Vector404) with the project "DriftSkills AI".
 
 ### 5. Ranked 10th — The Gridbreakers Datathon 2026
 *   **Issuer:** VinUniversity & VinTelligence

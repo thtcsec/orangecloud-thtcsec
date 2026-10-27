@@ -15,7 +15,7 @@ Cybersecurity Student & Software Engineer specializing in Backend (ASP.NET Core,
 
 ## 💼 Work Experience
 
-### 1. Software Engineer (Backend) Intern
+### 1. Software Engineer (Backend, in Training)
 **Grab**
 *Timeline: August 2026 – Present | On-site*
 - Designing and developing backend services and microservice architectures within Grab's regional engineering teams.
@@ -59,6 +59,15 @@ Cybersecurity Student & Software Engineer specializing in Backend (ASP.NET Core,
 
 ---
 
+## 📑 Publications
+- **CSoNet 2026 (Accepted)** — Network-Aware Event Sequence Modeling for User-Behavior and System Log Anomaly Detection. [Artifact](https://github.com/thtcsec/log-anomaly-tcn-transformer).
+- **SOICT 2026 (Accepted)** — Campus Log Anomaly Detection under Proxy Labels: Validity Limits of Archive Splits and Masked TCN–Transformers. [Artifact](https://github.com/thtcsec/soict2026-llm-log-rca).
+- **IEEE RIVF 2026 (Accepted)** — Same Flows, Opposite Verdicts: Feature Reconstruction in Cross-Dataset Intrusion Detection. [Artifact](https://github.com/thtcsec/rivf2026-federated-edge/tree/rivf2026-camera-ready).
+- **ICAI-2026 (Under Review)** — An AI-Native Event-Driven Edge–Cloud Architecture for Autonomous Network Security in Campus Infrastructure. [Code artifact](https://github.com/thtcsec/icai-fai2026).
+- **VNICT 2026 (Withdrawn)** — predecessor of the CSoNet paper; withdrawn before publication.
+
+---
+
 ## 🎓 Education & Programs
 - **HUFLIT University:** Bachelor of Cybersecurity (2023 – 2027 Expected) | GPA: 3.52/4.00
 - **Tsinghua University:** Global Innovation Program / AI & Innovation Digital Economy (IEDE2026126). Research at the MSE Experimental Center; Extended Teaching Assistant. Academic supervision — [Prof. Kris Singh](https://bigdata.tsinghua.edu.cn/Iiede/nstructor/Index.html), Tsinghua MSE / SRII.
@@ -76,14 +85,18 @@ Cybersecurity Student & Software Engineer specializing in Backend (ASP.NET Core,
 
 ## 📁 Selected Projects
 - **VETC AI Traffic Density:** Real-time GIS corridor monitoring for VETC (40+ cameras). YOLOv11 + SAHI + BoT-SORT density pipeline over Redis Streams; live G/Y/R Leaflet map.
-- **SecureCoating-Vision:** Evidence-gated electrode coating inspection (Tsinghua MSE Track 4). Fail-closed PASS/REJECT/HOLD gate on YOLO-seg; CoatingVision held-out mAP50 0.63; ~312 ms CPU pipeline.
+- **SecureCoating-Vision:** Evidence-gated electrode coating inspection (Tsinghua MSE Track 4 Excellence Award). Fail-closed PASS/REJECT/HOLD gate on YOLO-seg; CoatingVision held-out mAP50 0.63; ~312 ms CPU pipeline.
 - **CTSmartCam:** AI camera surveillance with event-driven microservices, Redis Streams, Docker/Nginx.
 - **Multi-Cloud Serverless SOAR:** AWS/GCP automated containment with Terraform, Step Functions, and Cloud Workflows.
 
 ---
 
 ## 🏆 Key Achievements & Awards
-- **Ranked 2nd** – MUGVN & MongoDB Mini Hackathon 2026 (Team Vector404)
+- **Excellence Award** – Global AI + Materials Innovation Application Competition 2026 (Tsinghua MSE, Track 4 · SecureCoating-Vision)
+- **Finalist** – QC4SG 2026 International Quantum Computing Hackathon (Team 23)
+- **Ranked 2nd (Top 7 Finalists)** – MUGVN & MongoDB Mini Hackathon 2026 (Team Vector404)
+- **3rd Runner Up** – HSU AI-Driven Challenge 2026 (Team Firewall404)
+- **Top 10 Finalist** – Tasco Foundry 2026 (Team CARO)
 - **Ranked 10th** – VinUniversity Datathon "The Gridbreaker" 2026 (Team GenCore - Ranked 10th out of 50 top teams)
 - **2nd Runner Up** – GenAI Express Demo Day GDG On Campus SGU 2026
 - **Winner** – HSU Vibe Coding Talents 2025
