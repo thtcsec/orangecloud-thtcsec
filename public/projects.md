@@ -60,14 +60,14 @@ A collection of featured engineering projects in web architectures, serverless s
     *   Automated response actions including resource isolation, IAM privilege revocation, SSH blocking, and disk snapshot for forensic analysis.
 ### 4. EnterpriseRAG — Hybrid Retrieval-Augmented Generation Platform
 *   **Domain:** Artificial Intelligence & Information Retrieval
-*   **Technologies:** FastAPI, Python, Qdrant, OpenSearch, Redis, CrossEncoder, LightOnOCR-2, Docling, Docker
+*   **Technologies:** FastAPI, Python, Qdrant, OpenSearch, Redis, RRF, Docker
 *   **Access:** Private MVP Repository
 *   **Highlights:**
-    *   Built MVP for Next Step Technology Solutions.
-    *   Hybrid retrieval pipeline: Qdrant dense vector search + OpenSearch BM25 → Reciprocal Rank Fusion (RRF) → CrossEncoder reranker.
-    *   Multi-format ingestion supporting PDF (`pypdf` text-layer), LightOnOCR-2 for scans/tables, and Docling for structured layout awareness.
-    *   Document-level ACL authorization with API key scope mapping and Qdrant/OpenSearch payload filtering.
-    *   LLM-as-judge citation verification on streaming and non-streaming answers.
+    *   Internal MVP for Next Step Technology Solutions (restricted pilot, not production-proven).
+    *   Hybrid retrieval: Qdrant dense + OpenSearch BM25 → Reciprocal Rank Fusion (RRF). CrossEncoder rerank is optional and off by default.
+    *   Multi-format ingest (PDF, DOCX, MD, TXT, CSV, JSON, HTML); PDF text-layer via `pypdf`, optional LightOnOCR-2 / Docling for scans.
+    *   Document-level ACL via API-key scopes and Qdrant/OpenSearch payload filtering.
+    *   Streaming Ask AI with citation chips; citations mark retrieved passages, not claim-level proof.
 
 ### 5. QUASAR — Classical-Quantum Hybrid Logistics Engine
 *   **Domain:** Quantum Computing & Operations Research

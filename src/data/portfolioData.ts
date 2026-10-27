@@ -166,8 +166,8 @@ export const portfolioData = {
       id: "enterpriserag",
       title: "EnterpriseRAG Platform",
       tag: "Project",
-      descriptionVi: "Nền tảng RAG truy xuất tài liệu kết hợp tìm kiếm ngữ nghĩa (Qdrant) và từ khóa (OpenSearch).",
-      descriptionEn: "Enterprise RAG platform combining dense semantic search (Qdrant) and BM25 (OpenSearch).",
+      descriptionVi: "MVP nội bộ Next Step: hybrid RAG Qdrant + OpenSearch BM25 (RRF), ACL theo tài liệu. Rerank tắt mặc định; chưa production-proven.",
+      descriptionEn: "Internal Next Step MVP: hybrid RAG with Qdrant + OpenSearch BM25 (RRF) and document ACL. Rerank off by default; not production-proven.",
       tags: ["FastAPI", "Python", "Qdrant", "OpenSearch", "Redis"],
       demo: "",
       github: "https://github.com/thtcsec"
